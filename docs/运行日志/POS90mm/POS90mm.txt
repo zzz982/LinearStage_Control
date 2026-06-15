@@ -1,0 +1,2282 @@
+[11:35:09.100] ASCII >
+=========================================
+  Linear Stage Control System v2.1
+=========================================
+KEY1短按: 切换速度/位置模式
+KEY2短按: 暂停/停止
+-----------------------------------------
+
+[11:35:09.201] ASCII >
+[SYS] Mode -> HOMING
+
+[11:35:10.207] ASCII >
+[STATUS] Mode:HOMING | Pos:1023(1.02mm) | Spd:0 | Z:70 | K1:0 K2:0 | LMT:0
+
+[11:35:11.214] ASCII >
+[STATUS] Mode:HOMING | Pos:1990(1.99mm) | Spd:0 | Z:122 | K1:0 K2:0 | LMT:0
+
+[11:35:12.217] ASCII >
+[STATUS] Mode:HOMING | Pos:2956(2.96mm) | Spd:0 | Z:169 | K1:0 K2:0 | LMT:0
+
+[11:35:13.224] ASCII >
+[STATUS] Mode:HOMING | Pos:3999(4.00mm) | Spd:0 | Z:211 | K1:0 K2:0 | LMT:0
+
+[11:35:14.229] ASCII >
+[STATUS] Mode:HOMING | Pos:5031(5.03mm) | Spd:0 | Z:240 | K1:0 K2:0 | LMT:0
+
+[11:35:15.235] ASCII >
+[STATUS] Mode:HOMING | Pos:5987(5.99mm) | Spd:0 | Z:278 | K1:0 K2:0 | LMT:0
+
+[11:35:16.241] ASCII >
+[STATUS] Mode:HOMING | Pos:6970(6.97mm) | Spd:0 | Z:317 | K1:0 K2:0 | LMT:0
+
+[11:35:17.248] ASCII >
+[STATUS] Mode:HOMING | Pos:8027(8.03mm) | Spd:0 | Z:354 | K1:0 K2:0 | LMT:0
+
+[11:35:18.254] ASCII >
+[STATUS] Mode:HOMING | Pos:9062(9.06mm) | Spd:0 | Z:396 | K1:0 K2:0 | LMT:0
+
+[11:35:19.260] ASCII >
+[STATUS] Mode:HOMING | Pos:10020(10.02mm) | Spd:0 | Z:442 | K1:0 K2:0 | LMT:0
+
+[11:35:20.269] ASCII >
+[STATUS] Mode:HOMING | Pos:11012(11.01mm) | Spd:0 | Z:477 | K1:0 K2:0 | LMT:0
+
+[11:35:21.277] ASCII >
+[STATUS] Mode:HOMING | Pos:12058(12.06mm) | Spd:0 | Z:502 | K1:0 K2:0 | LMT:0
+
+[11:35:22.281] ASCII >
+[STATUS] Mode:HOMING | Pos:13091(13.09mm) | Spd:0 | Z:529 | K1:0 K2:0 | LMT:0
+
+[11:35:23.288] ASCII >
+[STATUS] Mode:HOMING | Pos:14053(14.05mm) | Spd:0 | Z:556 | K1:0 K2:0 | LMT:0
+
+[11:35:24.295] ASCII >
+[STATUS] Mode:HOMING | Pos:15037(15.04mm) | Spd:0 | Z:579 | K1:0 K2:0 | LMT:0
+
+[11:35:25.304] ASCII >
+[STATUS] Mode:HOMING | Pos:16074(16.07mm) | Spd:0 | Z:613 | K1:0 K2:0 | LMT:0
+
+[11:35:26.308] ASCII >
+[STATUS] Mode:HOMING | Pos:17105(17.10mm) | Spd:0 | Z:663 | K1:0 K2:0 | LMT:0
+
+[11:35:27.318] ASCII >
+[STATUS] Mode:HOMING | Pos:18075(18.08mm) | Spd:0 | Z:701 | K1:0 K2:0 | LMT:0
+
+[11:35:28.323] ASCII >
+[STATUS] Mode:HOMING | Pos:19064(19.06mm) | Spd:0 | Z:730 | K1:0 K2:0 | LMT:0
+
+[11:35:29.329] ASCII >
+[STATUS] Mode:HOMING | Pos:20103(20.10mm) | Spd:0 | Z:763 | K1:0 K2:0 | LMT:0
+
+[11:35:30.337] ASCII >
+[STATUS] Mode:HOMING | Pos:21125(21.12mm) | Spd:0 | Z:788 | K1:0 K2:0 | LMT:0
+
+[11:35:31.344] ASCII >
+[STATUS] Mode:HOMING | Pos:22101(22.10mm) | Spd:0 | Z:813 | K1:0 K2:0 | LMT:0
+
+[11:35:32.352] ASCII >
+[STATUS] Mode:HOMING | Pos:23077(23.08mm) | Spd:0 | Z:841 | K1:0 K2:0 | LMT:0
+
+[11:35:33.356] ASCII >
+[STATUS] Mode:HOMING | Pos:24116(24.12mm) | Spd:0 | Z:869 | K1:0 K2:0 | LMT:0
+
+[11:35:34.366] ASCII >
+[STATUS] Mode:HOMING | Pos:25141(25.14mm) | Spd:0 | Z:886 | K1:0 K2:0 | LMT:0
+
+[11:35:35.373] ASCII >
+[STATUS] Mode:HOMING | Pos:26107(26.11mm) | Spd:0 | Z:906 | K1:0 K2:0 | LMT:0
+
+[11:35:36.379] ASCII >
+[STATUS] Mode:HOMING | Pos:27091(27.09mm) | Spd:0 | Z:930 | K1:0 K2:0 | LMT:0
+
+[11:35:37.385] ASCII >
+[STATUS] Mode:HOMING | Pos:28145(28.15mm) | Spd:0 | Z:951 | K1:0 K2:0 | LMT:0
+
+[11:35:38.392] ASCII >
+[STATUS] Mode:HOMING | Pos:29164(29.16mm) | Spd:0 | Z:972 | K1:0 K2:0 | LMT:0
+
+[11:35:39.401] ASCII >
+[STATUS] Mode:HOMING | Pos:30142(30.14mm) | Spd:0 | Z:993 | K1:0 K2:0 | LMT:0
+
+[11:35:40.406] ASCII >
+[STATUS] Mode:HOMING | Pos:31145(31.15mm) | Spd:0 | Z:1016 | K1:0 K2:0 | LMT:0
+
+[11:35:41.414] ASCII >
+[STATUS] Mode:HOMING | Pos:32182(32.18mm) | Spd:0 | Z:1047 | K1:0 K2:0 | LMT:0
+
+[11:35:42.421] ASCII >
+[STATUS] Mode:HOMING | Pos:33202(33.20mm) | Spd:0 | Z:1072 | K1:0 K2:0 | LMT:0
+
+[11:35:43.426] ASCII >
+[STATUS] Mode:HOMING | Pos:34186(34.19mm) | Spd:0 | Z:1098 | K1:0 K2:0 | LMT:0
+
+[11:35:44.435] ASCII >
+[STATUS] Mode:HOMING | Pos:35164(35.16mm) | Spd:0 | Z:1119 | K1:0 K2:0 | LMT:0
+
+[11:35:45.443] ASCII >
+[STATUS] Mode:HOMING | Pos:36194(36.19mm) | Spd:0 | Z:1141 | K1:0 K2:0 | LMT:0
+
+[11:35:46.450] ASCII >
+[STATUS] Mode:HOMING | Pos:37210(37.21mm) | Spd:0 | Z:1168 | K1:0 K2:0 | LMT:0
+
+[11:35:47.456] ASCII >
+[STATUS] Mode:HOMING | Pos:38192(38.19mm) | Spd:0 | Z:1196 | K1:0 K2:0 | LMT:0
+
+[11:35:48.462] ASCII >
+[STATUS] Mode:HOMING | Pos:39186(39.19mm) | Spd:0 | Z:1222 | K1:0 K2:0 | LMT:0
+
+[11:35:49.470] ASCII >
+[STATUS] Mode:HOMING | Pos:40209(40.21mm) | Spd:0 | Z:1243 | K1:0 K2:0 | LMT:0
+
+[11:35:50.488] ASCII >
+[STATUS] Mode:HOMING | Pos:41231(41.23mm) | Spd:0 | Z:1266 | K1:0 K2:0 | LMT:0
+
+[11:35:51.484] ASCII >
+[STATUS] Mode:HOMING | Pos:42227(42.23mm) | Spd:0 | Z:1288 | K1:0 K2:0 | LMT:0
+
+[11:35:52.493] ASCII >
+[STATUS] Mode:HOMING | Pos:43208(43.21mm) | Spd:0 | Z:1310 | K1:0 K2:0 | LMT:0
+
+[11:35:53.499] ASCII >
+[STATUS] Mode:HOMING | Pos:44233(44.23mm) | Spd:0 | Z:1328 | K1:0 K2:0 | LMT:0
+
+[11:35:54.504] ASCII >
+[STATUS] Mode:HOMING | Pos:45237(45.24mm) | Spd:0 | Z:1352 | K1:0 K2:0 | LMT:0
+
+[11:35:55.511] ASCII >
+[STATUS] Mode:HOMING | Pos:46220(46.22mm) | Spd:0 | Z:1375 | K1:0 K2:0 | LMT:0
+
+[11:35:56.518] ASCII >
+[STATUS] Mode:HOMING | Pos:47218(47.22mm) | Spd:0 | Z:1396 | K1:0 K2:0 | LMT:0
+
+[11:35:57.527] ASCII >
+[STATUS] Mode:HOMING | Pos:48259(48.26mm) | Spd:0 | Z:1420 | K1:0 K2:0 | LMT:0
+
+[11:35:58.533] ASCII >
+[STATUS] Mode:HOMING | Pos:49270(49.27mm) | Spd:0 | Z:1445 | K1:0 K2:0 | LMT:0
+
+[11:35:59.539] ASCII >
+[STATUS] Mode:HOMING | Pos:50269(50.27mm) | Spd:0 | Z:1468 | K1:0 K2:0 | LMT:0
+
+[11:36:00.546] ASCII >
+[STATUS] Mode:HOMING | Pos:51273(51.27mm) | Spd:0 | Z:1491 | K1:0 K2:0 | LMT:0
+
+[11:36:01.555] ASCII >
+[STATUS] Mode:HOMING | Pos:52302(52.30mm) | Spd:0 | Z:1513 | K1:0 K2:0 | LMT:0
+
+[11:36:02.560] ASCII >
+[STATUS] Mode:HOMING | Pos:53303(53.30mm) | Spd:0 | Z:1535 | K1:0 K2:0 | LMT:0
+
+[11:36:03.568] ASCII >
+[STATUS] Mode:HOMING | Pos:54288(54.29mm) | Spd:0 | Z:1553 | K1:0 K2:0 | LMT:0
+
+[11:36:04.574] ASCII >
+[STATUS] Mode:HOMING | Pos:55280(55.28mm) | Spd:0 | Z:1579 | K1:0 K2:0 | LMT:0
+
+[11:36:05.582] ASCII >
+[STATUS] Mode:HOMING | Pos:56323(56.32mm) | Spd:0 | Z:1611 | K1:0 K2:0 | LMT:0
+
+[11:36:06.590] ASCII >
+[STATUS] Mode:HOMING | Pos:57324(57.32mm) | Spd:0 | Z:1639 | K1:0 K2:0 | LMT:0
+
+[11:36:07.595] ASCII >
+[STATUS] Mode:HOMING | Pos:58329(58.33mm) | Spd:0 | Z:1674 | K1:0 K2:0 | LMT:0
+
+[11:36:08.603] ASCII >
+[STATUS] Mode:HOMING | Pos:59302(59.30mm) | Spd:0 | Z:1714 | K1:0 K2:0 | LMT:0
+
+[11:36:09.611] ASCII >
+[STATUS] Mode:HOMING | Pos:60326(60.33mm) | Spd:0 | Z:1737 | K1:0 K2:0 | LMT:0
+
+[11:36:10.619] ASCII >
+[STATUS] Mode:HOMING | Pos:61363(61.36mm) | Spd:0 | Z:1760 | K1:0 K2:0 | LMT:0
+
+[11:36:11.625] ASCII >
+[STATUS] Mode:HOMING | Pos:62347(62.35mm) | Spd:0 | Z:1781 | K1:0 K2:0 | LMT:0
+
+[11:36:12.630] ASCII >
+[STATUS] Mode:HOMING | Pos:63319(63.32mm) | Spd:0 | Z:1808 | K1:0 K2:0 | LMT:0
+
+[11:36:13.639] ASCII >
+[STATUS] Mode:HOMING | Pos:64335(64.33mm) | Spd:0 | Z:1830 | K1:0 K2:0 | LMT:0
+
+[11:36:14.645] ASCII >
+[STATUS] Mode:HOMING | Pos:65376(65.38mm) | Spd:0 | Z:1849 | K1:0 K2:0 | LMT:0
+
+[11:36:15.651] ASCII >
+[STATUS] Mode:HOMING | Pos:66367(66.37mm) | Spd:0 | Z:1872 | K1:0 K2:0 | LMT:0
+
+[11:36:16.658] ASCII >
+[STATUS] Mode:HOMING | Pos:67349(67.35mm) | Spd:0 | Z:1897 | K1:0 K2:0 | LMT:0
+
+[11:36:17.665] ASCII >
+[STATUS] Mode:HOMING | Pos:68376(68.38mm) | Spd:0 | Z:1919 | K1:0 K2:0 | LMT:0
+
+[11:36:18.673] ASCII >
+[STATUS] Mode:HOMING | Pos:68294(68.29mm) | Spd:0 | Z:1930 | K1:0 K2:0 | LMT:1
+
+[11:36:19.679] ASCII >
+[STATUS] Mode:HOMING | Pos:67780(67.78mm) | Spd:0 | Z:1949 | K1:0 K2:0 | LMT:0
+
+[11:36:20.686] ASCII >
+[STATUS] Mode:HOMING | Pos:67277(67.28mm) | Spd:0 | Z:1977 | K1:0 K2:0 | LMT:0
+
+[11:36:21.694] ASCII >
+[STATUS] Mode:HOMING | Pos:66784(66.78mm) | Spd:0 | Z:2017 | K1:0 K2:0 | LMT:0
+
+[11:36:22.703] ASCII >
+[STATUS] Mode:HOMING | Pos:66299(66.30mm) | Spd:0 | Z:2050 | K1:0 K2:0 | LMT:0
+
+[11:36:23.707] ASCII >
+[STATUS] Mode:HOMING | Pos:65810(65.81mm) | Spd:0 | Z:2072 | K1:0 K2:0 | LMT:0
+
+[11:36:24.714] ASCII >
+[STATUS] Mode:HOMING | Pos:65304(65.30mm) | Spd:0 | Z:2086 | K1:0 K2:0 | LMT:0
+
+[11:36:25.722] ASCII >
+[STATUS] Mode:HOMING | Pos:64786(64.79mm) | Spd:0 | Z:2106 | K1:0 K2:0 | LMT:0
+
+[11:36:26.730] ASCII >
+[STATUS] Mode:HOMING | Pos:64260(64.26mm) | Spd:0 | Z:2123 | K1:0 K2:0 | LMT:0
+
+[11:36:27.736] ASCII >
+[STATUS] Mode:HOMING | Pos:63752(63.75mm) | Spd:0 | Z:2142 | K1:0 K2:0 | LMT:0
+
+[11:36:28.743] ASCII >
+[STATUS] Mode:HOMING | Pos:64078(64.08mm) | Spd:0 | Z:2156 | K1:0 K2:0 | LMT:0
+
+[11:36:29.750] ASCII >
+[STATUS] Mode:HOMING | Pos:64603(64.60mm) | Spd:0 | Z:2169 | K1:0 K2:0 | LMT:0
+
+[11:36:30.758] ASCII >
+[STATUS] Mode:HOMING | Pos:65107(65.11mm) | Spd:0 | Z:2183 | K1:0 K2:0 | LMT:0
+
+[11:36:31.764] ASCII >
+[STATUS] Mode:HOMING | Pos:65620(65.62mm) | Spd:0 | Z:2196 | K1:0 K2:0 | LMT:0
+
+[11:36:32.770] ASCII >
+[STATUS] Mode:HOMING | Pos:66113(66.11mm) | Spd:0 | Z:2211 | K1:0 K2:0 | LMT:0
+
+[11:36:33.778] ASCII >
+[STATUS] Mode:HOMING | Pos:66606(66.61mm) | Spd:0 | Z:2226 | K1:0 K2:0 | LMT:0
+
+[11:36:34.785] ASCII >
+[STATUS] Mode:HOMING | Pos:67091(67.09mm) | Spd:0 | Z:2243 | K1:0 K2:0 | LMT:0
+
+[11:36:35.791] ASCII >
+[STATUS] Mode:HOMING | Pos:67591(67.59mm) | Spd:0 | Z:2257 | K1:0 K2:0 | LMT:0
+
+[11:36:36.797] ASCII >
+[STATUS] Mode:HOMING | Pos:68102(68.10mm) | Spd:0 | Z:2272 | K1:0 K2:0 | LMT:0
+
+[11:36:37.806] ASCII >
+[STATUS] Mode:HOMING | Pos:68622(68.62mm) | Spd:0 | Z:2286 | K1:0 K2:0 | LMT:1
+
+[11:36:38.815] ASCII >
+[STATUS] Mode:HOMING | Pos:68116(68.12mm) | Spd:0 | Z:2299 | K1:0 K2:0 | LMT:1
+
+[11:36:39.821] ASCII >
+[STATUS] Mode:HOMING | Pos:67605(67.61mm) | Spd:0 | Z:2323 | K1:0 K2:0 | LMT:0
+
+[11:36:40.826] ASCII >
+[STATUS] Mode:HOMING | Pos:67105(67.11mm) | Spd:0 | Z:2345 | K1:0 K2:0 | LMT:0
+
+[11:36:41.831] ASCII >
+[HOMING] 回零完成! 位置已清雄1�7
+[SYS] Mode -> IDLE (停止)
+
+[11:36:42.348] ASCII >
+[SYS] Mode -> POSITION (位置模式)
+[POS] TSpeedCmd=1
+  pulse (-90.0mm)
+[TEST] 回零完成, 进入POS
+[STATUS] Mode:POS | Pos:-5(-0.00mm) | Spd:3 | Z:57 | K1:0 K2:0 | LMT:0
+
+[11:36:42.438] ASCII >
+[RAMP] SpeedCmd=31
+
+[11:36:42.540] ASCII >
+[RAMP] SpeedCmd=61
+
+[11:36:42.640] ASCII >
+[RAMP] SpeedCmd=91
+
+[11:36:42.739] ASCII >
+[RAMP] SpeedCmd=114
+
+[11:36:42.841] ASCII >
+[RAMP] SpeedCmd=134
+
+[11:36:42.943] ASCII >
+[RAMP] SpeedCmd=155
+
+[11:36:43.043] ASCII >
+[RAMP] SpeedCmd=172
+
+[11:36:43.144] ASCII >
+[RAMP] SpeedCmd=182
+
+[11:36:43.246] ASCII >
+[RAMP] SpeedCmd=193
+
+[11:36:43.346] ASCII >
+[RAMP] SpeedCmd=200
+
+[11:36:43.365] ASCII >
+[STATUS] Mode:POS | Pos:-610(-0.61mm) | Spd:200 | Z:88 | K1:0 K2:0 | LMT:0
+
+[11:36:44.371] ASCII >
+[STATUS] Mode:POS | Pos:-1628(-1.63mm) | Spd:200 | Z:139 | K1:0 K2:0 | LMT:0
+
+[11:36:45.377] ASCII >
+[STATUS] Mode:POS | Pos:-2661(-2.66mm) | Spd:200 | Z:185 | K1:0 K2:0 | LMT:0
+
+[11:36:46.383] ASCII >
+[STATUS] Mode:POS | Pos:-3653(-3.65mm) | Spd:200 | Z:224 | K1:0 K2:0 | LMT:0
+
+[11:36:47.389] ASCII >
+[STATUS] Mode:POS | Pos:-4628(-4.63mm) | Spd:200 | Z:265 | K1:0 K2:0 | LMT:0
+
+[11:36:48.395] ASCII >
+[STATUS] Mode:POS | Pos:-5630(-5.63mm) | Spd:200 | Z:312 | K1:0 K2:0 | LMT:0
+
+[11:36:49.402] ASCII >
+[STATUS] Mode:POS | Pos:-6658(-6.66mm) | Spd:200 | Z:363 | K1:0 K2:0 | LMT:0
+
+[11:36:50.407] ASCII >
+[STATUS] Mode:POS | Pos:-7663(-7.66mm) | Spd:200 | Z:398 | K1:0 K2:0 | LMT:0
+
+[11:36:51.413] ASCII >
+[STATUS] Mode:POS | Pos:-8625(-8.62mm) | Spd:200 | Z:426 | K1:0 K2:0 | LMT:0
+
+[11:36:52.419] ASCII >
+[STATUS] Mode:POS | Pos:-9642(-9.64mm) | Spd:200 | Z:453 | K1:0 K2:0 | LMT:0
+
+[11:36:53.426] ASCII >
+[STATUS] Mode:POS | Pos:-10678(-10.68mm) | Spd:200 | Z:482 | K1:0 K2:0 | LMT:0
+
+[11:36:54.433] ASCII >
+[STATUS] Mode:POS | Pos:-11675(-11.68mm) | Spd:200 | Z:517 | K1:0 K2:0 | LMT:0
+
+[11:36:55.440] ASCII >
+[STATUS] Mode:POS | Pos:-12657(-12.66mm) | Spd:200 | Z:550 | K1:0 K2:0 | LMT:0
+
+[11:36:56.446] ASCII >
+[STATUS] Mode:POS | Pos:-13646(-13.65mm) | Spd:200 | Z:579 | K1:0 K2:0 | LMT:0
+
+[11:36:57.453] ASCII >
+[STATUS] Mode:POS | Pos:-14686(-14.69mm) | Spd:200 | Z:610 | K1:0 K2:0 | LMT:0
+
+[11:36:58.459] ASCII >
+[STATUS] Mode:POS | Pos:-15708(-15.71mm) | Spd:200 | Z:635 | K1:0 K2:0 | LMT:0
+
+[11:36:59.469] ASCII >
+[STATUS] Mode:POS | Pos:-16677(-16.68mm) | Spd:200 | Z:663 | K1:0 K2:0 | LMT:0
+
+[11:37:00.476] ASCII >
+[STATUS] Mode:POS | Pos:-17680(-17.68mm) | Spd:200 | Z:692 | K1:0 K2:0 | LMT:0
+
+[11:37:01.481] ASCII >
+[STATUS] Mode:POS | Pos:-18732(-18.73mm) | Spd:200 | Z:719 | K1:0 K2:0 | LMT:0
+
+[11:37:02.488] ASCII >
+[STATUS] Mode:POS | Pos:-19754(-19.75mm) | Spd:200 | Z:746 | K1:0 K2:0 | LMT:0
+
+[11:37:03.495] ASCII >
+[STATUS] Mode:POS | Pos:-20725(-20.73mm) | Spd:200 | Z:779 | K1:0 K2:0 | LMT:0
+
+[11:37:04.504] ASCII >
+[STATUS] Mode:POS | Pos:-21720(-21.72mm) | Spd:200 | Z:807 | K1:0 K2:0 | LMT:0
+
+[11:37:05.511] ASCII >
+[STATUS] Mode:POS | Pos:-22752(-22.75mm) | Spd:200 | Z:834 | K1:0 K2:0 | LMT:0
+
+[11:37:06.515] ASCII >
+[STATUS] Mode:POS | Pos:-23762(-23.76mm) | Spd:200 | Z:862 | K1:0 K2:0 | LMT:0
+
+[11:37:07.523] ASCII >
+[STATUS] Mode:POS | Pos:-24731(-24.73mm) | Spd:200 | Z:884 | K1:0 K2:0 | LMT:0
+
+[11:37:08.532] ASCII >
+[STATUS] Mode:POS | Pos:-25725(-25.73mm) | Spd:200 | Z:907 | K1:0 K2:0 | LMT:0
+
+[11:37:09.537] ASCII >
+[STATUS] Mode:POS | Pos:-26761(-26.76mm) | Spd:200 | Z:927 | K1:0 K2:0 | LMT:0
+
+[11:37:10.548] ASCII >
+[STATUS] Mode:POS | Pos:-27776(-27.78mm) | Spd:200 | Z:951 | K1:0 K2:0 | LMT:0
+
+[11:37:11.551] ASCII >
+[STATUS] Mode:POS | Pos:-28752(-28.75mm) | Spd:200 | Z:972 | K1:0 K2:0 | LMT:0
+
+[11:37:12.558] ASCII >
+[STATUS] Mode:POS | Pos:-29747(-29.75mm) | Spd:200 | Z:994 | K1:0 K2:0 | LMT:0
+
+[11:37:13.566] ASCII >
+[STATUS] Mode:POS | Pos:-30783(-30.78mm) | Spd:200 | Z:1012 | K1:0 K2:0 | LMT:0
+
+[11:37:14.573] ASCII >
+[STATUS] Mode:POS | Pos:-31801(-31.80mm) | Spd:200 | Z:1036 | K1:0 K2:0 | LMT:0
+
+[11:37:15.578] ASCII >
+[STATUS] Mode:POS | Pos:-32771(-32.77mm) | Spd:200 | Z:1057 | K1:0 K2:0 | LMT:0
+
+[11:37:16.588] ASCII >
+[STATUS] Mode:POS | Pos:-33758(-33.76mm) | Spd:200 | Z:1120 | K1:0 K2:0 | LMT:0
+
+[11:37:17.593] ASCII >
+[STATUS] Mode:POS | Pos:-34801(-34.80mm) | Spd:200 | Z:1148 | K1:0 K2:0 | LMT:0
+
+[11:37:18.601] ASCII >
+[STATUS] Mode:POS | Pos:-35831(-35.83mm) | Spd:200 | Z:1171 | K1:0 K2:0 | LMT:0
+
+[11:37:19.607] ASCII >
+[STATUS] Mode:POS | Pos:-36806(-36.81mm) | Spd:200 | Z:1193 | K1:0 K2:0 | LMT:0
+
+[11:37:20.617] ASCII >
+[STATUS] Mode:POS | Pos:-37803(-37.80mm) | Spd:200 | Z:1221 | K1:0 K2:0 | LMT:0
+
+[11:37:21.624] ASCII >
+[STATUS] Mode:POS | Pos:-38843(-38.84mm) | Spd:200 | Z:1243 | K1:0 K2:0 | LMT:0
+
+[11:37:22.629] ASCII >
+[STATUS] Mode:POS | Pos:-39876(-39.88mm) | Spd:200 | Z:1266 | K1:0 K2:0 | LMT:0
+
+[11:37:23.635] ASCII >
+[STATUS] Mode:POS | Pos:-40856(-40.86mm) | Spd:200 | Z:1287 | K1:0 K2:0 | LMT:0
+
+[11:37:24.644] ASCII >
+[STATUS] Mode:POS | Pos:-41827(-41.83mm) | Spd:200 | Z:1308 | K1:0 K2:0 | LMT:0
+
+[11:37:25.649] ASCII >
+[STATUS] Mode:POS | Pos:-42874(-42.87mm) | Spd:200 | Z:1333 | K1:0 K2:0 | LMT:0
+
+[11:37:26.656] ASCII >
+[STATUS] Mode:POS | Pos:-43883(-43.88mm) | Spd:200 | Z:1358 | K1:0 K2:0 | LMT:0
+
+[11:37:27.663] ASCII >
+[STATUS] Mode:POS | Pos:-44857(-44.86mm) | Spd:200 | Z:1379 | K1:0 K2:0 | LMT:0
+
+[11:37:28.669] ASCII >
+[STATUS] Mode:POS | Pos:-45838(-45.84mm) | Spd:200 | Z:1402 | K1:0 K2:0 | LMT:0
+
+[11:37:29.676] ASCII >
+[STATUS] Mode:POS | Pos:-46887(-46.89mm) | Spd:200 | Z:1426 | K1:0 K2:0 | LMT:0
+
+[11:37:30.684] ASCII >
+[STATUS] Mode:POS | Pos:-47900(-47.90mm) | Spd:200 | Z:1452 | K1:0 K2:0 | LMT:0
+
+[11:37:31.692] ASCII >
+[STATUS] Mode:POS | Pos:-48871(-48.87mm) | Spd:200 | Z:1473 | K1:0 K2:0 | LMT:0
+
+[11:37:32.698] ASCII >
+[STATUS] Mode:POS | Pos:-49858(-49.86mm) | Spd:200 | Z:1498 | K1:0 K2:0 | LMT:0
+
+[11:37:33.706] ASCII >
+[STATUS] Mode:POS | Pos:-50914(-50.91mm) | Spd:200 | Z:1521 | K1:0 K2:0 | LMT:0
+
+[11:37:34.713] ASCII >
+[STATUS] Mode:POS | Pos:-51939(-51.94mm) | Spd:200 | Z:1543 | K1:0 K2:0 | LMT:0
+
+[11:37:35.720] ASCII >
+[STATUS] Mode:POS | Pos:-52896(-52.90mm) | Spd:200 | Z:1566 | K1:0 K2:0 | LMT:0
+
+[11:37:36.727] ASCII >
+[STATUS] Mode:POS | Pos:-53880(-53.88mm) | Spd:200 | Z:1587 | K1:0 K2:0 | LMT:0
+
+[11:37:37.733] ASCII >
+[STATUS] Mode:POS | Pos:-54933(-54.93mm) | Spd:200 | Z:1610 | K1:0 K2:0 | LMT:0
+
+[11:37:38.742] ASCII >
+[STATUS] Mode:POS | Pos:-55960(-55.96mm) | Spd:200 | Z:1632 | K1:0 K2:0 | LMT:0
+
+[11:37:39.748] ASCII >
+[STATUS] Mode:POS | Pos:-56927(-56.93mm) | Spd:200 | Z:1655 | K1:0 K2:0 | LMT:0
+
+[11:37:40.755] ASCII >
+[STATUS] Mode:POS | Pos:-57921(-57.92mm) | Spd:200 | Z:1680 | K1:0 K2:0 | LMT:0
+
+[11:37:41.761] ASCII >
+[STATUS] Mode:POS | Pos:-58980(-58.98mm) | Spd:200 | Z:1700 | K1:0 K2:0 | LMT:0
+
+[11:37:42.769] ASCII >
+[STATUS] Mode:POS | Pos:-60001(-60.00mm) | Spd:200 | Z:1726 | K1:0 K2:0 | LMT:0
+
+[11:37:43.777] ASCII >
+[STATUS] Mode:POS | Pos:-60973(-60.97mm) | Spd:200 | Z:1747 | K1:0 K2:0 | LMT:0
+
+[11:37:44.782] ASCII >
+[STATUS] Mode:POS | Pos:-61955(-61.96mm) | Spd:200 | Z:1768 | K1:0 K2:0 | LMT:0
+
+[11:37:45.789] ASCII >
+[STATUS] Mode:POS | Pos:-63010(-63.01mm) | Spd:200 | Z:1792 | K1:0 K2:0 | LMT:0
+
+[11:37:46.797] ASCII >
+[STATUS] Mode:POS | Pos:-64012(-64.01mm) | Spd:200 | Z:1814 | K1:0 K2:0 | LMT:0
+
+[11:37:47.803] ASCII >
+[STATUS] Mode:POS | Pos:-64971(-64.97mm) | Spd:200 | Z:1836 | K1:0 K2:0 | LMT:0
+
+[11:37:48.812] ASCII >
+[STATUS] Mode:POS | Pos:-65968(-65.97mm) | Spd:200 | Z:1859 | K1:0 K2:0 | LMT:0
+
+[11:37:49.819] ASCII >
+[STATUS] Mode:POS | Pos:-67019(-67.02mm) | Spd:200 | Z:1885 | K1:0 K2:0 | LMT:0
+
+[11:37:50.824] ASCII >
+[STATUS] Mode:POS | Pos:-68035(-68.04mm) | Spd:200 | Z:1904 | K1:0 K2:0 | LMT:0
+
+[11:37:51.831] ASCII >
+[STATUS] Mode:POS | Pos:-68994(-68.99mm) | Spd:200 | Z:1925 | K1:0 K2:0 | LMT:0
+
+[11:37:52.839] ASCII >
+[STATUS] Mode:POS | Pos:-69996(-70.00mm) | Spd:200 | Z:1945 | K1:0 K2:0 | LMT:0
+
+[11:37:53.846] ASCII >
+[STATUS] Mode:POS | Pos:-71044(-71.04mm) | Spd:200 | Z:1968 | K1:0 K2:0 | LMT:0
+
+[11:37:54.852] ASCII >
+[STATUS] Mode:POS | Pos:-72059(-72.06mm) | Spd:200 | Z:1991 | K1:0 K2:0 | LMT:0
+
+[11:37:55.859] ASCII >
+[STATUS] Mode:POS | Pos:-73021(-73.02mm) | Spd:200 | Z:2012 | K1:0 K2:0 | LMT:0
+
+[11:37:56.868] ASCII >
+[STATUS] Mode:POS | Pos:-74020(-74.02mm) | Spd:200 | Z:2036 | K1:0 K2:0 | LMT:0
+
+[11:37:57.874] ASCII >
+[STATUS] Mode:POS | Pos:-75074(-75.07mm) | Spd:200 | Z:2056 | K1:0 K2:0 | LMT:0
+
+[11:37:58.882] ASCII >
+[STATUS] Mode:POS | Pos:-76085(-76.08mm) | Spd:200 | Z:2081 | K1:0 K2:0 | LMT:0
+
+[11:37:59.889] ASCII >
+[STATUS] Mode:POS | Pos:-77051(-77.05mm) | Spd:200 | Z:2104 | K1:0 K2:0 | LMT:0
+
+[11:38:00.894] ASCII >
+[STATUS] Mode:POS | Pos:-78057(-78.06mm) | Spd:200 | Z:2127 | K1:0 K2:0 | LMT:0
+
+[11:38:01.904] ASCII >
+[STATUS] Mode:POS | Pos:-79115(-79.11mm) | Spd:200 | Z:2150 | K1:0 K2:0 | LMT:0
+
+[11:38:02.908] ASCII >
+[STATUS] Mode:POS | Pos:-80121(-80.12mm) | Spd:200 | Z:2171 | K1:0 K2:0 | LMT:0
+
+[11:38:03.915] ASCII >
+[STATUS] Mode:POS | Pos:-81088(-81.09mm) | Spd:200 | Z:2193 | K1:0 K2:0 | LMT:0
+
+[11:38:04.922] ASCII >
+[STATUS] Mode:POS | Pos:-82084(-82.08mm) | Spd:200 | Z:2219 | K1:0 K2:0 | LMT:0
+
+[11:38:05.929] ASCII >
+[STATUS] Mode:POS | Pos:-83131(-83.13mm) | Spd:200 | Z:2241 | K1:0 K2:0 | LMT:0
+
+[11:38:06.936] ASCII >
+[STATUS] Mode:POS | Pos:-84134(-84.13mm) | Spd:200 | Z:2292 | K1:0 K2:0 | LMT:0
+
+[11:38:07.944] ASCII >
+[STATUS] Mode:POS | Pos:-85094(-85.09mm) | Spd:200 | Z:2319 | K1:0 K2:0 | LMT:0
+
+[11:38:08.952] ASCII >
+[STATUS] Mode:POS | Pos:-86088(-86.09mm) | Spd:200 | Z:2344 | K1:0 K2:0 | LMT:0
+
+[11:38:09.958] ASCII >
+[STATUS] Mode:POS | Pos:-87150(-87.15mm) | Spd:200 | Z:2370 | K1:0 K2:0 | LMT:0
+
+[11:38:10.963] ASCII >
+[STATUS] Mode:POS | Pos:-88162(-88.16mm) | Spd:200 | Z:2397 | K1:0 K2:0 | LMT:0
+
+[11:38:11.971] ASCII >
+[STATUS] Mode:POS | Pos:-89120(-89.12mm) | Spd:200 | Z:2423 | K1:0 K2:0 | LMT:0
+
+[11:38:12.827] ASCII >
+[RAMP] SpeedCmd=199
+
+[11:38:12.917] ASCII >
+[POS] Arrived! Target=-90000, Actual=-89998, Error=-2, Ramp=18
+
+[11:38:12.984] ASCII >
+[STATUS] Mode:POS | Pos:-89998(-90.00mm) | Spd:18 | Z:2443 | K1:0 K2:0 | LMT:0
+
+[11:38:13.991] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:2443 | K1:0 K2:0 | LMT:0
+
+[11:38:14.999] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:2443 | K1:0 K2:0 | LMT:0
+
+[11:38:16.005] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:2443 | K1:0 K2:0 | LMT:0
+
+[11:38:17.012] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:2443 | K1:0 K2:0 | LMT:0
+
+[11:38:17.929] ASCII >
+[SYS] Mode -> VELOCITY (速度模式)
+[TEST] Cycle#1 | VEL BACKWARD -> -76.9mm | 起点:-90.0mm
+
+[11:38:18.027] ASCII >
+[STATUS] Mode:VEL | Pos:-89902(-89.90mm) | Spd:220 | Z:2444 | K1:0 K2:0 | LMT:0
+
+[11:38:19.035] ASCII >
+[STATUS] Mode:VEL | Pos:-88828(-88.83mm) | Spd:220 | Z:2460 | K1:0 K2:0 | LMT:0
+
+[11:38:20.040] ASCII >
+[STATUS] Mode:VEL | Pos:-87758(-87.76mm) | Spd:220 | Z:2479 | K1:0 K2:0 | LMT:0
+
+[11:38:21.048] ASCII >
+[STATUS] Mode:VEL | Pos:-86619(-86.62mm) | Spd:220 | Z:2498 | K1:0 K2:0 | LMT:0
+
+[11:38:22.056] ASCII >
+[STATUS] Mode:VEL | Pos:-85486(-85.49mm) | Spd:220 | Z:2515 | K1:0 K2:0 | LMT:0
+
+[11:38:23.062] ASCII >
+[STATUS] Mode:VEL | Pos:-84425(-84.43mm) | Spd:220 | Z:2533 | K1:0 K2:0 | LMT:0
+
+[11:38:24.069] ASCII >
+[STATUS] Mode:VEL | Pos:-83338(-83.34mm) | Spd:220 | Z:2548 | K1:0 K2:0 | LMT:0
+
+[11:38:25.079] ASCII >
+[STATUS] Mode:VEL | Pos:-82181(-82.18mm) | Spd:220 | Z:2566 | K1:0 K2:0 | LMT:0
+
+[11:38:26.086] ASCII >
+[STATUS] Mode:VEL | Pos:-81088(-81.09mm) | Spd:220 | Z:2584 | K1:0 K2:0 | LMT:0
+
+[11:38:27.093] ASCII >
+[STATUS] Mode:VEL | Pos:-80021(-80.02mm) | Spd:220 | Z:2598 | K1:0 K2:0 | LMT:0
+
+[11:38:28.097] ASCII >
+[STATUS] Mode:VEL | Pos:-78895(-78.89mm) | Spd:220 | Z:2618 | K1:0 K2:0 | LMT:0
+
+[11:38:29.104] ASCII >
+[STATUS] Mode:VEL | Pos:-77748(-77.75mm) | Spd:220 | Z:2632 | K1:0 K2:0 | LMT:0
+
+[11:38:29.912] ASCII >
+[SYS] Mode -Cmd=0
+ ON (位置模式)
+[POS] Target: -90000 pulse (-90.0mm)
+[TEST] VEL完成, 切回POS | 终点:-76.9mm | 位移:13.1mm
+
+[11:38:30.003] ASCII >
+[RAMP] SpeedCmd=30
+
+[11:38:30.104] ASCII >
+[RAMP] SpeedCmd=60
+
+[11:38:30.126] ASCII >
+[STATUS] Mode:POS | Pos:-76903(-76.90mm) | Spd:65 | Z:2650 | K1:0 K2:0 | LMT:0
+
+[11:38:30.205] ASCII >
+[RAMP] SpeedCmd=90
+
+[11:38:30.306] ASCII >
+[RAMP] SpeedCmd=114
+
+[11:38:30.408] ASCII >
+[RAMP] SpeedCmd=134
+
+[11:38:30.509] ASCII >
+[RAMP] SpeedCmd=154
+
+[11:38:30.608] ASCII >
+[RAMP] SpeedCmd=172
+
+[11:38:30.709] ASCII >
+[RAMP] SpeedCmd=182
+
+[11:38:30.811] ASCII >
+[RAMP] SpeedCmd=192
+
+[11:38:30.913] ASCII >
+[RAMP] SpeedCmd=200
+
+[11:38:31.142] ASCII >
+[STATUS] Mode:POS | Pos:-77689(-77.69mm) | Spd:200 | Z:2668 | K1:0 K2:0 | LMT:0
+
+[11:38:32.148] ASCII >
+[STATUS] Mode:POS | Pos:-78730(-78.73mm) | Spd:200 | Z:2692 | K1:0 K2:0 | LMT:0
+
+[11:38:33.154] ASCII >
+[STATUS] Mode:POS | Pos:-79761(-79.76mm) | Spd:200 | Z:2712 | K1:0 K2:0 | LMT:0
+
+[11:38:34.163] ASCII >
+[STATUS] Mode:POS | Pos:-80736(-80.74mm) | Spd:200 | Z:2738 | K1:0 K2:0 | LMT:0
+
+[11:38:35.169] ASCII >
+[STATUS] Mode:POS | Pos:-81719(-81.72mm) | Spd:200 | Z:2761 | K1:0 K2:0 | LMT:0
+
+[11:38:36.175] ASCII >
+[STATUS] Mode:POS | Pos:-82752(-82.75mm) | Spd:200 | Z:2786 | K1:0 K2:0 | LMT:0
+
+[11:38:37.181] ASCII >
+[STATUS] Mode:POS | Pos:-83775(-83.78mm) | Spd:200 | Z:2808 | K1:0 K2:0 | LMT:0
+
+[11:38:38.189] ASCII >
+[STATUS] Mode:POS | Pos:-84743(-84.74mm) | Spd:200 | Z:2830 | K1:0 K2:0 | LMT:0
+
+[11:38:39.198] ASCII >
+[STATUS] Mode:POS | Pos:-85714(-85.71mm) | Spd:200 | Z:2853 | K1:0 K2:0 | LMT:0
+
+[11:38:40.203] ASCII >
+[STATUS] Mode:POS | Pos:-86762(-86.76mm) | Spd:200 | Z:2878 | K1:0 K2:0 | LMT:0
+
+[11:38:41.210] ASCII >
+[STATUS] Mode:POS | Pos:-87801(-87.80mm) | Spd:200 | Z:2903 | K1:0 K2:0 | LMT:0
+
+[11:38:42.218] ASCII >
+[STATUS] Mode:POS | Pos:-88763(-88.76mm) | Spd:200 | Z:2926 | K1:0 K2:0 | LMT:0
+
+[11:38:43.225] ASCII >
+[STATUS] Mode:POS | Pos:-89741(-89.74mm) | Spd:200 | Z:2947 | K1:0 K2:0 | LMT:0
+
+[11:38:43.444] ASCII >
+[RAMP] SpeedCmd=199
+
+[11:38:43.529] ASCII >
+[POS] Arrived! Target=-90000, Actual=-89998, Error=-2, Ramp=18
+
+[11:38:44.238] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:2952 | K1:0 K2:0 | LMT:0
+
+[11:38:45.246] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:2952 | K1:0 K2:0 | LMT:0
+
+[11:38:46.251] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:2952 | K1:0 K2:0 | LMT:0
+
+[11:38:47.258] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:2952 | K1:0 K2:0 | LMT:0
+
+[11:38:48.264] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:2952 | K1:0 K2:0 | LMT:0
+
+[11:38:48.540] ASCII >
+[SYS] Mode -> VELOCITY (速度模式)
+[TEST] Cycle#2 | VEL FORWARD -> -96.6mm | 起点:-90.0mm
+
+[11:38:49.281] ASCII >
+[STATUS] Mode:VEL | Pos:-90848(-90.85mm) | Spd:220 | Z:2967 | K1:0 K2:0 | LMT:0
+
+[11:38:50.288] ASCII >
+[STATUS] Mode:VEL | Pos:-91999(-92.00mm) | Spd:220 | Z:2987 | K1:0 K2:0 | LMT:0
+
+[11:38:51.293] ASCII >
+[STATUS] Mode:VEL | Pos:-93035(-93.04mm) | Spd:220 | Z:3007 | K1:0 K2:0 | LMT:0
+
+[11:38:52.300] ASCII >
+[STATUS] Mode:VEL | Pos:-94114(-94.11mm) | Spd:220 | Z:3032 | K1:0 K2:0 | LMT:0
+
+[11:38:53.307] ASCII >
+[STATUS] Mode:VEL | Pos:-95289(-95.29mm) | Spd:220 | Z:3052 | K1:0 K2:0 | LMT:0
+
+[11:38:54.315] ASCII >
+[STATUS] Mode:VEL | Pos:-96390(-96.39mm) | Spd:220 | Z:3075 | K1:0 K2:0 | LMT:0
+
+[11:38:54.542] ASCII >
+[SYS] Mode -Cmd=0
+ ON (位置模式)
+[POS] Target: -90000 pulse (-90.0mm)
+[TEST] VEL完成, 切回POS | 终点:-96.6mm | 位移:6.6mm
+
+[11:38:54.632] ASCII >
+[RAMP] SpeedCmd=30
+
+[11:38:54.733] ASCII >
+[RAMP] SpeedCmd=60
+
+[11:38:54.835] ASCII >
+[RAMP] SpeedCmd=90
+
+[11:38:54.936] ASCII >
+[RAMP] SpeedCmd=114
+
+[11:38:55.036] ASCII >
+[RAMP] SpeedCmd=134
+
+[11:38:55.137] ASCII >
+[RAMP] SpeedCmd=154
+
+[11:38:55.238] ASCII >
+[RAMP] SpeedCmd=172
+
+[11:38:55.342] ASCII >
+[STATUS] Mode:POS | Pos:-96247(-96.25mm) | Spd:182 | Z:3089 | K1:0 K2:0 | LMT:0
+
+[11:38:55.439] ASCII >
+[RAMP] SpeedCmd=192
+
+[11:38:55.540] ASCII >
+[RAMP] SpeedCmd=200
+
+[11:38:56.350] ASCII >
+[STATUS] Mode:POS | Pos:-95231(-95.23mm) | Spd:200 | Z:3106 | K1:0 K2:0 | LMT:0
+
+[11:38:57.357] ASCII >
+[STATUS] Mode:POS | Pos:-94164(-94.16mm) | Spd:200 | Z:3121 | K1:0 K2:0 | LMT:0
+
+[11:38:58.364] ASCII >
+[STATUS] Mode:POS | Pos:-93183(-93.18mm) | Spd:200 | Z:3138 | K1:0 K2:0 | LMT:0
+
+[11:38:59.370] ASCII >
+[STATUS] Mode:POS | Pos:-92243(-92.24mm) | Spd:200 | Z:3152 | K1:0 K2:0 | LMT:0
+
+[11:39:00.378] ASCII >
+[STATUS] Mode:POS | Pos:-91214(-91.21mm) | Spd:200 | Z:3168 | K1:0 K2:0 | LMT:0
+
+[11:39:01.385] ASCII >
+[STATUS] Mode:POS | Pos:-90149(-90.15mm) | Spd:200 | Z:3184 | K1:0 K2:0 | LMT:0
+
+[11:39:01.488] ASCII >
+[RAMP] SpeedCmd=199
+
+[11:39:01.582] ASCII >
+[POS] Arrived! Target=-90000, Actual=-90002, Error=2, Ramp=18
+
+[11:39:02.397] ASCII >
+[STATUS] Mode:POS | Pos:-90002(-90.00mm) | Spd:18 | Z:3187 | K1:0 K2:0 | LMT:0
+
+[11:39:03.405] ASCII >
+[STATUS] Mode:POS | Pos:-90002(-90.00mm) | Spd:18 | Z:3187 | K1:0 K2:0 | LMT:0
+
+[11:39:04.412] ASCII >
+[STATUS] Mode:POS | Pos:-90002(-90.00mm) | Spd:18 | Z:3187 | K1:0 K2:0 | LMT:0
+
+[11:39:05.419] ASCII >
+[STATUS] Mode:POS | Pos:-90002(-90.00mm) | Spd:18 | Z:3187 | K1:0 K2:0 | LMT:0
+
+[11:39:06.426] ASCII >
+[STATUS] Mode:POS | Pos:-90002(-90.00mm) | Spd:18 | Z:3187 | K1:0 K2:0 | LMT:0
+
+[11:39:06.590] ASCII >
+[SYS] Mode -> VELOCITY (速度模式)
+[TEST] Cycle#3 | VEL BACKWARD -> -57.4mm | 起点:-90.0mm
+
+[11:39:07.442] ASCII >
+[STATUS] Mode:VEL | Pos:-89098(-89.10mm) | Spd:220 | Z:3200 | K1:0 K2:0 | LMT:0
+
+[11:39:08.448] ASCII >
+[STATUS] Mode:VEL | Pos:-88047(-88.05mm) | Spd:220 | Z:3217 | K1:0 K2:0 | LMT:0
+
+[11:39:09.455] ASCII >
+[STATUS] Mode:VEL | Pos:-86908(-86.91mm) | Spd:220 | Z:3237 | K1:0 K2:0 | LMT:0
+
+[11:39:10.464] ASCII >
+[STATUS] Mode:VEL | Pos:-85768(-85.77mm) | Spd:220 | Z:3257 | K1:0 K2:0 | LMT:0
+
+[11:39:11.469] ASCII >
+[STATUS] Mode:VEL | Pos:-84687(-84.69mm) | Spd:220 | Z:3275 | K1:0 K2:0 | LMT:0
+
+[11:39:12.476] ASCII >
+[STATUS] Mode:VEL | Pos:-83617(-83.62mm) | Spd:220 | Z:3291 | K1:0 K2:0 | LMT:0
+
+[11:39:13.482] ASCII >
+[STATUS] Mode:VEL | Pos:-82476(-82.48mm) | Spd:220 | Z:3307 | K1:0 K2:0 | LMT:0
+
+[11:39:14.491] ASCII >
+[STATUS] Mode:VEL | Pos:-81369(-81.37mm) | Spd:220 | Z:3324 | K1:0 K2:0 | LMT:0
+
+[11:39:15.498] ASCII >
+[STATUS] Mode:VEL | Pos:-80294(-80.29mm) | Spd:220 | Z:3343 | K1:0 K2:0 | LMT:0
+
+[11:39:16.505] ASCII >
+[STATUS] Mode:VEL | Pos:-79190(-79.19mm) | Spd:220 | Z:3360 | K1:0 K2:0 | LMT:0
+
+[11:39:17.511] ASCII >
+[STATUS] Mode:VEL | Pos:-78025(-78.03mm) | Spd:220 | Z:3379 | K1:0 K2:0 | LMT:0
+
+[11:39:18.518] ASCII >
+[STATUS] Mode:VEL | Pos:-76941(-76.94mm) | Spd:220 | Z:3398 | K1:0 K2:0 | LMT:0
+
+[11:39:19.525] ASCII >
+[STATUS] Mode:VEL | Pos:-75878(-75.88mm) | Spd:220 | Z:3417 | K1:0 K2:0 | LMT:0
+
+[11:39:20.533] ASCII >
+[STATUS] Mode:VEL | Pos:-74723(-74.72mm) | Spd:220 | Z:3437 | K1:0 K2:0 | LMT:0
+
+[11:39:21.539] ASCII >
+[STATUS] Mode:VEL | Pos:-73590(-73.59mm) | Spd:220 | Z:3453 | K1:0 K2:0 | LMT:0
+
+[11:39:22.547] ASCII >
+[STATUS] Mode:VEL | Pos:-72541(-72.54mm) | Spd:220 | Z:3470 | K1:0 K2:0 | LMT:0
+
+[11:39:23.553] ASCII >
+[STATUS] Mode:VEL | Pos:-71444(-71.44mm) | Spd:220 | Z:3492 | K1:0 K2:0 | LMT:0
+
+[11:39:24.560] ASCII >
+[STATUS] Mode:VEL | Pos:-70276(-70.28mm) | Spd:220 | Z:3510 | K1:0 K2:0 | LMT:0
+
+[11:39:25.567] ASCII >
+[STATUS] Mode:VEL | Pos:-69185(-69.18mm) | Spd:220 | Z:3525 | K1:0 K2:0 | LMT:0
+
+[11:39:26.575] ASCII >
+[STATUS] Mode:VEL | Pos:-68113(-68.11mm) | Spd:220 | Z:3543 | K1:0 K2:0 | LMT:0
+
+[11:39:27.584] ASCII >
+[STATUS] Mode:VEL | Pos:-66994(-66.99mm) | Spd:220 | Z:3563 | K1:0 K2:0 | LMT:0
+
+[11:39:28.588] ASCII >
+[STATUS] Mode:VEL | Pos:-65838(-65.84mm) | Spd:220 | Z:3579 | K1:0 K2:0 | LMT:0
+
+[11:39:29.595] ASCII >
+[STATUS] Mode:VEL | Pos:-64763(-64.76mm) | Spd:220 | Z:3598 | K1:0 K2:0 | LMT:0
+
+[11:39:30.602] ASCII >
+[STATUS] Mode:VEL | Pos:-63704(-63.70mm) | Spd:220 | Z:3616 | K1:0 K2:0 | LMT:0
+
+[11:39:31.610] ASCII >
+[STATUS] Mode:VEL | Pos:-62559(-62.56mm) | Spd:220 | Z:3634 | K1:0 K2:0 | LMT:0
+
+[11:39:32.615] ASCII >
+[STATUS] Mode:VEL | Pos:-61435(-61.44mm) | Spd:220 | Z:3653 | K1:0 K2:0 | LMT:0
+
+[11:39:33.623] ASCII >
+[STATUS] Mode:VEL | Pos:-60375(-60.38mm) | Spd:220 | Z:3671 | K1:0 K2:0 | LMT:0
+
+[11:39:34.630] ASCII >
+[STATUS] Mode:VEL | Pos:-59275(-59.28mm) | Spd:220 | Z:3684 | K1:0 K2:0 | LMT:0
+
+[11:39:35.638] ASCII >
+[STATUS] Mode:VEL | Pos:-58098(-58.10mm) | Spd:220 | Z:3701 | K1:0 K2:0 | LMT:0
+
+[11:39:36.273] ASCII >
+[SYS] Mode -Cmd=0
+ ON (位置模式)
+[POS] Target: -90000 pulse (-90.0mm)
+[TEST] VEL完成, 切回POS | 终点:-57.4mm | 位移:32.6mm
+
+[11:39:36.363] ASCII >
+[RAMP] SpeedCmd=30
+
+[11:39:36.464] ASCII >
+[RAMP] SpeedCmd=60
+
+[11:39:36.565] ASCII >
+[RAMP] SpeedCmd=90
+
+[11:39:36.667] ASCII >
+[STATUS] Mode:POS | Pos:-57492(-57.49mm) | Spd:111 | Z:3716 | K1:0 K2:0 | LMT:0
+[RAMP] SpeedCmd=114
+
+[11:39:36.768] ASCII >
+[RAMP] SpeedCmd=134
+
+[11:39:36.868] ASCII >
+[RAMP] SpeedCmd=154
+
+[11:39:36.970] ASCII >
+[RAMP] SpeedCmd=172
+
+[11:39:37.070] ASCII >
+[RAMP] SpeedCmd=182
+
+[11:39:37.171] ASCII >
+[RAMP] SpeedCmd=192
+
+[11:39:37.273] ASCII >
+[RAMP] SpeedCmd=200
+
+[11:39:37.673] ASCII >
+[STATUS] Mode:POS | Pos:-58416(-58.42mm) | Spd:200 | Z:3741 | K1:0 K2:0 | LMT:0
+
+[11:39:38.679] ASCII >
+[STATUS] Mode:POS | Pos:-59484(-59.48mm) | Spd:200 | Z:3763 | K1:0 K2:0 | LMT:0
+
+[11:39:39.686] ASCII >
+[STATUS] Mode:POS | Pos:-60467(-60.47mm) | Spd:200 | Z:3787 | K1:0 K2:0 | LMT:0
+
+[11:39:40.694] ASCII >
+[STATUS] Mode:POS | Pos:-61428(-61.43mm) | Spd:200 | Z:3807 | K1:0 K2:0 | LMT:0
+
+[11:39:41.701] ASCII >
+[STATUS] Mode:POS | Pos:-62445(-62.44mm) | Spd:200 | Z:3827 | K1:0 K2:0 | LMT:0
+
+[11:39:42.709] ASCII >
+[STATUS] Mode:POS | Pos:-63496(-63.50mm) | Spd:200 | Z:3850 | K1:0 K2:0 | LMT:0
+
+[11:39:43.714] ASCII >
+[STATUS] Mode:POS | Pos:-64474(-64.47mm) | Spd:200 | Z:3872 | K1:0 K2:0 | LMT:0
+
+[11:39:44.721] ASCII >
+[STATUS] Mode:POS | Pos:-65431(-65.43mm) | Spd:200 | Z:3894 | K1:0 K2:0 | LMT:0
+
+[11:39:45.728] ASCII >
+[STATUS] Mode:POS | Pos:-66453(-66.45mm) | Spd:200 | Z:3916 | K1:0 K2:0 | LMT:0
+
+[11:39:46.736] ASCII >
+[STATUS] Mode:POS | Pos:-67504(-67.50mm) | Spd:200 | Z:3940 | K1:0 K2:0 | LMT:0
+
+[11:39:47.743] ASCII >
+[STATUS] Mode:POS | Pos:-68499(-68.50mm) | Spd:200 | Z:3962 | K1:0 K2:0 | LMT:0
+
+[11:39:48.750] ASCII >
+[STATUS] Mode:POS | Pos:-69457(-69.46mm) | Spd:200 | Z:3984 | K1:0 K2:0 | LMT:0
+
+[11:39:49.757] ASCII >
+[STATUS] Mode:POS | Pos:-70480(-70.48mm) | Spd:200 | Z:4003 | K1:0 K2:0 | LMT:0
+
+[11:39:50.764] ASCII >
+[STATUS] Mode:POS | Pos:-71532(-71.53mm) | Spd:200 | Z:4025 | K1:0 K2:0 | LMT:0
+
+[11:39:51.771] ASCII >
+[STATUS] Mode:POS | Pos:-72520(-72.52mm) | Spd:200 | Z:4048 | K1:0 K2:0 | LMT:0
+
+[11:39:52.779] ASCII >
+[STATUS] Mode:POS | Pos:-73484(-73.48mm) | Spd:200 | Z:4068 | K1:0 K2:0 | LMT:0
+
+[11:39:53.785] ASCII >
+[STATUS] Mode:POS | Pos:-74507(-74.51mm) | Spd:200 | Z:4089 | K1:0 K2:0 | LMT:0
+
+[11:39:54.792] ASCII >
+[STATUS] Mode:POS | Pos:-75560(-75.56mm) | Spd:200 | Z:4110 | K1:0 K2:0 | LMT:0
+
+[11:39:55.798] ASCII >
+[STATUS] Mode:POS | Pos:-76546(-76.55mm) | Spd:200 | Z:4134 | K1:0 K2:0 | LMT:0
+
+[11:39:56.808] ASCII >
+[STATUS] Mode:POS | Pos:-77512(-77.51mm) | Spd:200 | Z:4157 | K1:0 K2:0 | LMT:0
+
+[11:39:57.814] ASCII >
+[STATUS] Mode:POS | Pos:-78543(-78.54mm) | Spd:200 | Z:4177 | K1:0 K2:0 | LMT:0
+
+[11:39:58.820] ASCII >
+[STATUS] Mode:POS | Pos:-79593(-79.59mm) | Spd:200 | Z:4201 | K1:0 K2:0 | LMT:0
+
+[11:39:59.828] ASCII >
+[STATUS] Mode:POS | Pos:-80576(-80.58mm) | Spd:200 | Z:4223 | K1:0 K2:0 | LMT:0
+
+[11:40:00.835] ASCII >
+[STATUS] Mode:POS | Pos:-81541(-81.54mm) | Spd:200 | Z:4246 | K1:0 K2:0 | LMT:0
+
+[11:40:01.841] ASCII >
+[STATUS] Mode:POS | Pos:-82571(-82.57mm) | Spd:200 | Z:4269 | K1:0 K2:0 | LMT:0
+
+[11:40:02.848] ASCII >
+[STATUS] Mode:POS | Pos:-83609(-83.61mm) | Spd:200 | Z:4290 | K1:0 K2:0 | LMT:0
+
+[11:40:03.855] ASCII >
+[STATUS] Mode:POS | Pos:-84583(-84.58mm) | Spd:200 | Z:4313 | K1:0 K2:0 | LMT:0
+
+[11:40:04.862] ASCII >
+[STATUS] Mode:POS | Pos:-85544(-85.54mm) | Spd:200 | Z:4333 | K1:0 K2:0 | LMT:0
+
+[11:40:05.870] ASCII >
+[STATUS] Mode:POS | Pos:-86588(-86.59mm) | Spd:200 | Z:4358 | K1:0 K2:0 | LMT:0
+
+[11:40:06.876] ASCII >
+[STATUS] Mode:POS | Pos:-87631(-87.63mm) | Spd:200 | Z:4380 | K1:0 K2:0 | LMT:0
+
+[11:40:07.882] ASCII >
+[STATUS] Mode:POS | Pos:-88616(-88.62mm) | Spd:200 | Z:4404 | K1:0 K2:0 | LMT:0
+
+[11:40:08.890] ASCII >
+[STATUS] Mode:POS | Pos:-89573(-89.57mm) | Spd:200 | Z:4427 | K1:0 K2:0 | LMT:0
+
+[11:40:09.276] ASCII >
+[RAMP] SpeedCmd=199
+
+[11:40:09.365] ASCII >
+[POS] Arrived! Target=-90000, Actual=-89998, Error=-2, Ramp=18
+
+[11:40:09.902] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:4436 | K1:0 K2:0 | LMT:0
+
+[11:40:10.909] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:4436 | K1:0 K2:0 | LMT:0
+
+[11:40:11.917] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:4436 | K1:0 K2:0 | LMT:0
+
+[11:40:12.924] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:4436 | K1:0 K2:0 | LMT:0
+
+[11:40:13.930] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:4436 | K1:0 K2:0 | LMT:0
+
+[11:40:14.377] ASCII >
+[SYS] Mode -> VELOCITY (速度模式)
+[TEST] Cycle#4 | VEL BACKWARD -> -53.8mm | 起点:-90.0mm
+
+[11:40:14.946] ASCII >
+[STATUS] Mode:VEL | Pos:-89398(-89.40mm) | Spd:220 | Z:4447 | K1:0 K2:0 | LMT:0
+
+[11:40:15.954] ASCII >
+[STATUS] Mode:VEL | Pos:-88356(-88.36mm) | Spd:220 | Z:4461 | K1:0 K2:0 | LMT:0
+
+[11:40:16.960] ASCII >
+[STATUS] Mode:VEL | Pos:-87230(-87.23mm) | Spd:220 | Z:4476 | K1:0 K2:0 | LMT:0
+
+[11:40:17.968] ASCII >
+[STATUS] Mode:VEL | Pos:-86074(-86.07mm) | Spd:220 | Z:4492 | K1:0 K2:0 | LMT:0
+
+[11:40:18.974] ASCII >
+[STATUS] Mode:VEL | Pos:-84985(-84.99mm) | Spd:220 | Z:4509 | K1:0 K2:0 | LMT:0
+
+[11:40:19.983] ASCII >
+[STATUS] Mode:VEL | Pos:-83923(-83.92mm) | Spd:220 | Z:4527 | K1:0 K2:0 | LMT:0
+
+[11:40:20.988] ASCII >
+[STATUS] Mode:VEL | Pos:-82796(-82.80mm) | Spd:220 | Z:4546 | K1:0 K2:0 | LMT:0
+
+[11:40:21.994] ASCII >
+[STATUS] Mode:VEL | Pos:-81665(-81.67mm) | Spd:220 | Z:4565 | K1:0 K2:0 | LMT:0
+
+[11:40:23.002] ASCII >
+[STATUS] Mode:VEL | Pos:-80594(-80.59mm) | Spd:220 | Z:4580 | K1:0 K2:0 | LMT:0
+
+[11:40:24.010] ASCII >
+[STATUS] Mode:VEL | Pos:-79517(-79.52mm) | Spd:220 | Z:4596 | K1:0 K2:0 | LMT:0
+
+[11:40:25.016] ASCII >
+[STATUS] Mode:VEL | Pos:-78347(-78.35mm) | Spd:220 | Z:4615 | K1:0 K2:0 | LMT:0
+
+[11:40:26.024] ASCII >
+[STATUS] Mode:VEL | Pos:-77255(-77.25mm) | Spd:220 | Z:4632 | K1:0 K2:0 | LMT:0
+
+[11:40:27.030] ASCII >
+[STATUS] Mode:VEL | Pos:-76178(-76.18mm) | Spd:220 | Z:4652 | K1:0 K2:0 | LMT:0
+
+[11:40:28.037] ASCII >
+[STATUS] Mode:VEL | Pos:-75058(-75.06mm) | Spd:220 | Z:4672 | K1:0 K2:0 | LMT:0
+
+[11:40:29.044] ASCII >
+[STATUS] Mode:VEL | Pos:-73906(-73.91mm) | Spd:220 | Z:4686 | K1:0 K2:0 | LMT:0
+
+[11:40:30.052] ASCII >
+[STATUS] Mode:VEL | Pos:-72818(-72.82mm) | Spd:220 | Z:4701 | K1:0 K2:0 | LMT:0
+
+[11:40:31.058] ASCII >
+[STATUS] Mode:VEL | Pos:-71753(-71.75mm) | Spd:220 | Z:4717 | K1:0 K2:0 | LMT:0
+
+[11:40:32.065] ASCII >
+[STATUS] Mode:VEL | Pos:-70614(-70.61mm) | Spd:220 | Z:4735 | K1:0 K2:0 | LMT:0
+
+[11:40:33.072] ASCII >
+[STATUS] Mode:VEL | Pos:-69478(-69.48mm) | Spd:220 | Z:4753 | K1:0 K2:0 | LMT:0
+
+[11:40:34.079] ASCII >
+[STATUS] Mode:VEL | Pos:-68415(-68.42mm) | Spd:220 | Z:4769 | K1:0 K2:0 | LMT:0
+
+[11:40:35.085] ASCII >
+[STATUS] Mode:VEL | Pos:-67319(-67.32mm) | Spd:220 | Z:4785 | K1:0 K2:0 | LMT:0
+
+[11:40:36.094] ASCII >
+[STATUS] Mode:VEL | Pos:-66168(-66.17mm) | Spd:220 | Z:4804 | K1:0 K2:0 | LMT:0
+
+[11:40:37.100] ASCII >
+[STATUS] Mode:VEL | Pos:-65057(-65.06mm) | Spd:220 | Z:4822 | K1:0 K2:0 | LMT:0
+
+[11:40:38.107] ASCII >
+[STATUS] Mode:VEL | Pos:-63999(-64.00mm) | Spd:220 | Z:4839 | K1:0 K2:0 | LMT:0
+
+[11:40:39.116] ASCII >
+[STATUS] Mode:VEL | Pos:-62882(-62.88mm) | Spd:220 | Z:4858 | K1:0 K2:0 | LMT:0
+
+[11:40:40.121] ASCII >
+[STATUS] Mode:VEL | Pos:-61732(-61.73mm) | Spd:220 | Z:4875 | K1:0 K2:0 | LMT:0
+
+[11:40:41.128] ASCII >
+[STATUS] Mode:VEL | Pos:-60672(-60.67mm) | Spd:220 | Z:4894 | K1:0 K2:0 | LMT:0
+
+[11:40:42.134] ASCII >
+[STATUS] Mode:VEL | Pos:-59602(-59.60mm) | Spd:220 | Z:4910 | K1:0 K2:0 | LMT:0
+
+[11:40:43.143] ASCII >
+[STATUS] Mode:VEL | Pos:-58421(-58.42mm) | Spd:220 | Z:4925 | K1:0 K2:0 | LMT:0
+
+[11:40:44.149] ASCII >
+[STATUS] Mode:VEL | Pos:-57309(-57.31mm) | Spd:220 | Z:4942 | K1:0 K2:0 | LMT:0
+
+[11:40:45.156] ASCII >
+[STATUS] Mode:VEL | Pos:-56255(-56.26mm) | Spd:220 | Z:4962 | K1:0 K2:0 | LMT:0
+
+[11:40:46.162] ASCII >
+[STATUS] Mode:VEL | Pos:-55127(-55.13mm) | Spd:220 | Z:4980 | K1:0 K2:0 | LMT:0
+
+[11:40:47.170] ASCII >
+[STATUS] Mode:VEL | Pos:-53972(-53.97mm) | Spd:220 | Z:4996 | K1:0 K2:0 | LMT:0
+
+[11:40:47.288] ASCII >
+[SYS] Mode -Cmd=0
+ ON (位置模式)
+[POS] Target: -90000 pulse (-90.0mm)
+[TEST] VEL完成, 切回POS | 终点:-53.8mm | 位移:36.2mm
+
+[11:40:47.380] ASCII >
+[RAMP] SpeedCmd=30
+
+[11:40:47.481] ASCII >
+[RAMP] SpeedCmd=60
+
+[11:40:47.580] ASCII >
+[RAMP] SpeedCmd=90
+
+[11:40:47.681] ASCII >
+[RAMP] SpeedCmd=114
+
+[11:40:47.782] ASCII >
+[RAMP] SpeedCmd=134
+
+[11:40:47.883] ASCII >
+[RAMP] SpeedCmd=154
+
+[11:40:47.985] ASCII >
+[RAMP] SpeedCmd=172
+
+[11:40:48.086] ASCII >
+[RAMP] SpeedCmd=182
+
+[11:40:48.199] ASCII >
+[RAMP] SpeedCmd=192
+[STATUS] Mode:POS | Pos:-54363(-54.36mm) | Spd:193 | Z:5010 | K1:0 K2:0 | LMT:0
+
+[11:40:48.287] ASCII >
+[RAMP] SpeedCmd=200
+
+[11:40:49.205] ASCII >
+[STATUS] Mode:POS | Pos:-55423(-55.42mm) | Spd:200 | Z:5033 | K1:0 K2:0 | LMT:0
+
+[11:40:50.213] ASCII >
+[STATUS] Mode:POS | Pos:-56407(-56.41mm) | Spd:200 | Z:5059 | K1:0 K2:0 | LMT:0
+
+[11:40:51.220] ASCII >
+[STATUS] Mode:POS | Pos:-57372(-57.37mm) | Spd:200 | Z:5083 | K1:0 K2:0 | LMT:0
+
+[11:40:52.227] ASCII >
+[STATUS] Mode:POS | Pos:-58397(-58.40mm) | Spd:200 | Z:5106 | K1:0 K2:0 | LMT:0
+
+[11:40:53.234] ASCII >
+[STATUS] Mode:POS | Pos:-59475(-59.47mm) | Spd:200 | Z:5129 | K1:0 K2:0 | LMT:0
+
+[11:40:54.240] ASCII >
+[STATUS] Mode:POS | Pos:-60453(-60.45mm) | Spd:200 | Z:5152 | K1:0 K2:0 | LMT:0
+
+[11:40:55.247] ASCII >
+[STATUS] Mode:POS | Pos:-61416(-61.42mm) | Spd:200 | Z:5173 | K1:0 K2:0 | LMT:0
+
+[11:40:56.255] ASCII >
+[STATUS] Mode:POS | Pos:-62437(-62.44mm) | Spd:200 | Z:5197 | K1:0 K2:0 | LMT:0
+
+[11:40:57.263] ASCII >
+[STATUS] Mode:POS | Pos:-63488(-63.49mm) | Spd:200 | Z:5221 | K1:0 K2:0 | LMT:0
+
+[11:40:58.269] ASCII >
+[STATUS] Mode:POS | Pos:-64458(-64.46mm) | Spd:200 | Z:5247 | K1:0 K2:0 | LMT:0
+
+[11:40:59.275] ASCII >
+[STATUS] Mode:POS | Pos:-65412(-65.41mm) | Spd:200 | Z:5269 | K1:0 K2:0 | LMT:0
+
+[11:41:00.282] ASCII >
+[STATUS] Mode:POS | Pos:-66448(-66.45mm) | Spd:200 | Z:5293 | K1:0 K2:0 | LMT:0
+
+[11:41:01.290] ASCII >
+[STATUS] Mode:POS | Pos:-67496(-67.50mm) | Spd:200 | Z:5315 | K1:0 K2:0 | LMT:0
+
+[11:41:02.297] ASCII >
+[STATUS] Mode:POS | Pos:-68489(-68.49mm) | Spd:200 | Z:5339 | K1:0 K2:0 | LMT:0
+
+[11:41:03.305] ASCII >
+[STATUS] Mode:POS | Pos:-69440(-69.44mm) | Spd:200 | Z:5360 | K1:0 K2:0 | LMT:0
+
+[11:41:04.311] ASCII >
+[STATUS] Mode:POS | Pos:-70474(-70.47mm) | Spd:200 | Z:5382 | K1:0 K2:0 | LMT:0
+
+[11:41:05.317] ASCII >
+[STATUS] Mode:POS | Pos:-71526(-71.53mm) | Spd:200 | Z:5407 | K1:0 K2:0 | LMT:0
+
+[11:41:06.324] ASCII >
+[STATUS] Mode:POS | Pos:-72503(-72.50mm) | Spd:200 | Z:5429 | K1:0 K2:0 | LMT:0
+
+[11:41:07.333] ASCII >
+[STATUS] Mode:POS | Pos:-73471(-73.47mm) | Spd:200 | Z:5450 | K1:0 K2:0 | LMT:0
+
+[11:41:08.339] ASCII >
+[STATUS] Mode:POS | Pos:-74497(-74.50mm) | Spd:200 | Z:5476 | K1:0 K2:0 | LMT:0
+
+[11:41:09.346] ASCII >
+[STATUS] Mode:POS | Pos:-75551(-75.55mm) | Spd:200 | Z:5498 | K1:0 K2:0 | LMT:0
+
+[11:41:10.351] ASCII >
+[STATUS] Mode:POS | Pos:-76533(-76.53mm) | Spd:200 | Z:5522 | K1:0 K2:0 | LMT:0
+
+[11:41:11.362] ASCII >
+[STATUS] Mode:POS | Pos:-77501(-77.50mm) | Spd:200 | Z:5545 | K1:0 K2:0 | LMT:0
+
+[11:41:12.366] ASCII >
+[STATUS] Mode:POS | Pos:-78530(-78.53mm) | Spd:200 | Z:5571 | K1:0 K2:0 | LMT:0
+
+[11:41:13.373] ASCII >
+[STATUS] Mode:POS | Pos:-79589(-79.59mm) | Spd:200 | Z:5595 | K1:0 K2:0 | LMT:0
+
+[11:41:14.381] ASCII >
+[STATUS] Mode:POS | Pos:-80560(-80.56mm) | Spd:200 | Z:5615 | K1:0 K2:0 | LMT:0
+
+[11:41:15.387] ASCII >
+[STATUS] Mode:POS | Pos:-81529(-81.53mm) | Spd:200 | Z:5636 | K1:0 K2:0 | LMT:0
+
+[11:41:16.396] ASCII >
+[STATUS] Mode:POS | Pos:-82559(-82.56mm) | Spd:200 | Z:5660 | K1:0 K2:0 | LMT:0
+
+[11:41:17.402] ASCII >
+[STATUS] Mode:POS | Pos:-83596(-83.60mm) | Spd:200 | Z:5683 | K1:0 K2:0 | LMT:0
+
+[11:41:18.409] ASCII >
+[STATUS] Mode:POS | Pos:-84577(-84.58mm) | Spd:200 | Z:5708 | K1:0 K2:0 | LMT:0
+
+[11:41:19.416] ASCII >
+[STATUS] Mode:POS | Pos:-85537(-85.54mm) | Spd:200 | Z:5730 | K1:0 K2:0 | LMT:0
+
+[11:41:20.422] ASCII >
+[STATUS] Mode:POS | Pos:-86573(-86.57mm) | Spd:200 | Z:5758 | K1:0 K2:0 | LMT:0
+
+[11:41:21.432] ASCII >
+[STATUS] Mode:POS | Pos:-87616(-87.62mm) | Spd:200 | Z:5780 | K1:0 K2:0 | LMT:0
+
+[11:41:22.440] ASCII >
+[STATUS] Mode:POS | Pos:-88602(-88.60mm) | Spd:200 | Z:5805 | K1:0 K2:0 | LMT:0
+
+[11:41:23.444] ASCII >
+[STATUS] Mode:POS | Pos:-89560(-89.56mm) | Spd:200 | Z:5825 | K1:0 K2:0 | LMT:0
+
+[11:41:23.842] ASCII >
+[RAMP] SpeedCmd=199
+
+[11:41:23.930] ASCII >
+[POS] Arrived! Target=-90000, Actual=-89998, Error=-2, Ramp=19
+
+[11:41:24.457] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:19 | Z:5835 | K1:0 K2:0 | LMT:0
+
+[11:41:25.463] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:19 | Z:5835 | K1:0 K2:0 | LMT:0
+
+[11:41:26.472] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:19 | Z:5835 | K1:0 K2:0 | LMT:0
+
+[11:41:27.478] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:19 | Z:5835 | K1:0 K2:0 | LMT:0
+
+[11:41:28.485] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:19 | Z:5835 | K1:0 K2:0 | LMT:0
+
+[11:41:28.941] ASCII >
+[SYS] Mode -> VELOCITY (速度模式)
+[TEST] Cycle#5 | VEL FORWARD -> -99.5mm | 起点:-90.0mm
+
+[11:41:29.499] ASCII >
+[STATUS] Mode:VEL | Pos:-90634(-90.63mm) | Spd:220 | Z:5848 | K1:0 K2:0 | LMT:0
+
+[11:41:30.507] ASCII >
+[STATUS] Mode:VEL | Pos:-91802(-91.80mm) | Spd:220 | Z:5865 | K1:0 K2:0 | LMT:0
+
+[11:41:31.515] ASCII >
+[STATUS] Mode:VEL | Pos:-92838(-92.84mm) | Spd:220 | Z:5884 | K1:0 K2:0 | LMT:0
+
+[11:41:32.523] ASCII >
+[STATUS] Mode:VEL | Pos:-93914(-93.91mm) | Spd:220 | Z:5907 | K1:0 K2:0 | LMT:0
+
+[11:41:33.530] ASCII >
+[STATUS] Mode:VEL | Pos:-95083(-95.08mm) | Spd:220 | Z:5926 | K1:0 K2:0 | LMT:0
+
+[11:41:34.534] ASCII >
+[STATUS] Mode:VEL | Pos:-96205(-96.21mm) | Spd:220 | Z:5948 | K1:0 K2:0 | LMT:0
+
+[11:41:35.543] ASCII >
+[STATUS] Mode:VEL | Pos:-97253(-97.25mm) | Spd:220 | Z:5968 | K1:0 K2:0 | LMT:0
+
+[11:41:36.549] ASCII >
+[STATUS] Mode:VEL | Pos:-98357(-98.36mm) | Spd:220 | Z:5988 | K1:0 K2:0 | LMT:0
+
+[11:41:37.489] ASCII >
+[SYS] Mode -Cmd=0
+ ON (位置模式)
+[POS] Target: -90000 pulse (-90.0mm)
+[TEST] VEL完成, 切回POS | 终点:-99.5mm | 位移:9.5mm
+
+[11:41:37.568] ASCII >
+[STATUS] Mode:POS | Pos:-99464(-99.46mm) | Spd:25 | Z:6007 | K1:0 K2:0 | LMT:0
+
+[11:41:37.579] ASCII >
+[RAMP] SpeedCmd=30
+
+[11:41:37.682] ASCII >
+[RAMP] SpeedCmd=60
+
+[11:41:37.781] ASCII >
+[RAMP] SpeedCmd=90
+
+[11:41:37.885] ASCII >
+[RAMP] SpeedCmd=114
+
+[11:41:37.983] ASCII >
+[RAMP] SpeedCmd=134
+
+[11:41:38.086] ASCII >
+[RAMP] SpeedCmd=154
+
+[11:41:38.185] ASCII >
+[RAMP] SpeedCmd=172
+
+[11:41:38.286] ASCII >
+[RAMP] SpeedCmd=182
+
+[11:41:38.387] ASCII >
+[RAMP] SpeedCmd=192
+
+[11:41:38.489] ASCII >
+[RAMP] SpeedCmd=200
+
+[11:41:38.584] ASCII >
+[STATUS] Mode:POS | Pos:-98720(-98.72mm) | Spd:200 | Z:6021 | K1:0 K2:0 | LMT:0
+
+[11:41:39.593] ASCII >
+[STATUS] Mode:POS | Pos:-97687(-97.69mm) | Spd:200 | Z:6037 | K1:0 K2:0 | LMT:0
+
+[11:41:40.600] ASCII >
+[STATUS] Mode:POS | Pos:-96722(-96.72mm) | Spd:200 | Z:6053 | K1:0 K2:0 | LMT:0
+
+[11:41:41.606] ASCII >
+[STATUS] Mode:POS | Pos:-95754(-95.75mm) | Spd:200 | Z:6067 | K1:0 K2:0 | LMT:0
+
+[11:41:42.613] ASCII >
+[STATUS] Mode:POS | Pos:-94684(-94.68mm) | Spd:200 | Z:6082 | K1:0 K2:0 | LMT:0
+
+[11:41:43.622] ASCII >
+[STATUS] Mode:POS | Pos:-93664(-93.66mm) | Spd:200 | Z:6096 | K1:0 K2:0 | LMT:0
+
+[11:41:44.626] ASCII >
+[STATUS] Mode:POS | Pos:-92701(-92.70mm) | Spd:200 | Z:6110 | K1:0 K2:0 | LMT:0
+
+[11:41:45.635] ASCII >
+[STATUS] Mode:POS | Pos:-91730(-91.73mm) | Spd:200 | Z:6122 | K1:0 K2:0 | LMT:0
+
+[11:41:46.641] ASCII >
+[STATUS] Mode:POS | Pos:-90669(-90.67mm) | Spd:200 | Z:6136 | K1:0 K2:0 | LMT:0
+
+[11:41:47.241] ASCII >
+[RAMP] SpeedCmd=199
+
+[11:41:47.326] ASCII >
+[POS] Arrived! Target=-90000, Actual=-90002, Error=2, Ramp=18
+
+[11:41:47.654] ASCII >
+[STATUS] Mode:POS | Pos:-90002(-90.00mm) | Spd:18 | Z:6146 | K1:0 K2:0 | LMT:0
+
+[11:41:48.661] ASCII >
+[STATUS] Mode:POS | Pos:-90002(-90.00mm) | Spd:18 | Z:6146 | K1:0 K2:0 | LMT:0
+
+[11:41:49.668] ASCII >
+[STATUS] Mode:POS | Pos:-90002(-90.00mm) | Spd:18 | Z:6146 | K1:0 K2:0 | LMT:0
+
+[11:41:50.674] ASCII >
+[STATUS] Mode:POS | Pos:-90002(-90.00mm) | Spd:18 | Z:6146 | K1:0 K2:0 | LMT:0
+
+[11:41:51.681] ASCII >
+[STATUS] Mode:POS | Pos:-90002(-90.00mm) | Spd:18 | Z:6146 | K1:0 K2:0 | LMT:0
+
+[11:41:52.336] ASCII >
+[SYS] Mode -> VELOCITY (速度模式)
+[TEST] Cycle#6 | VEL BACKWARD -> -58.7mm | 起点:-90.0mm
+
+[11:41:52.697] ASCII >
+[STATUS] Mode:VEL | Pos:-89624(-89.62mm) | Spd:220 | Z:6152 | K1:0 K2:0 | LMT:0
+
+[11:41:53.704] ASCII >
+[STATUS] Mode:VEL | Pos:-88567(-88.57mm) | Spd:220 | Z:6169 | K1:0 K2:0 | LMT:0
+
+[11:41:54.711] ASCII >
+[STATUS] Mode:VEL | Pos:-87467(-87.47mm) | Spd:220 | Z:6186 | K1:0 K2:0 | LMT:0
+
+[11:41:55.717] ASCII >
+[STATUS] Mode:VEL | Pos:-86308(-86.31mm) | Spd:220 | Z:6203 | K1:0 K2:0 | LMT:0
+
+[11:41:56.724] ASCII >
+[STATUS] Mode:VEL | Pos:-85208(-85.21mm) | Spd:220 | Z:6223 | K1:0 K2:0 | LMT:0
+
+[11:41:57.731] ASCII >
+[STATUS] Mode:VEL | Pos:-84146(-84.15mm) | Spd:220 | Z:6238 | K1:0 K2:0 | LMT:0
+
+[11:41:58.739] ASCII >
+[STATUS] Mode:VEL | Pos:-83032(-83.03mm) | Spd:220 | Z:6254 | K1:0 K2:0 | LMT:0
+
+[11:41:59.744] ASCII >
+[STATUS] Mode:VEL | Pos:-81895(-81.89mm) | Spd:220 | Z:6270 | K1:0 K2:0 | LMT:0
+
+[11:42:00.753] ASCII >
+[STATUS] Mode:VEL | Pos:-80808(-80.81mm) | Spd:220 | Z:6287 | K1:0 K2:0 | LMT:0
+
+[11:42:01.760] ASCII >
+[STATUS] Mode:VEL | Pos:-79740(-79.74mm) | Spd:220 | Z:6302 | K1:0 K2:0 | LMT:0
+
+[11:42:02.766] ASCII >
+[STATUS] Mode:VEL | Pos:-78586(-78.59mm) | Spd:220 | Z:6316 | K1:0 K2:0 | LMT:0
+
+[11:42:03.773] ASCII >
+[STATUS] Mode:VEL | Pos:-77462(-77.46mm) | Spd:220 | Z:6335 | K1:0 K2:0 | LMT:0
+
+[11:42:04.782] ASCII >
+[STATUS] Mode:VEL | Pos:-76397(-76.40mm) | Spd:220 | Z:6353 | K1:0 K2:0 | LMT:0
+
+[11:42:05.787] ASCII >
+[STATUS] Mode:VEL | Pos:-75282(-75.28mm) | Spd:220 | Z:6369 | K1:0 K2:0 | LMT:0
+
+[11:42:06.794] ASCII >
+[STATUS] Mode:VEL | Pos:-74134(-74.13mm) | Spd:220 | Z:6387 | K1:0 K2:0 | LMT:0
+
+[11:42:07.802] ASCII >
+[STATUS] Mode:VEL | Pos:-73028(-73.03mm) | Spd:220 | Z:6404 | K1:0 K2:0 | LMT:0
+
+[11:42:08.810] ASCII >
+[STATUS] Mode:VEL | Pos:-71976(-71.98mm) | Spd:220 | Z:6421 | K1:0 K2:0 | LMT:0
+
+[11:42:09.814] ASCII >
+[STATUS] Mode:VEL | Pos:-70845(-70.85mm) | Spd:220 | Z:6438 | K1:0 K2:0 | LMT:0
+
+[11:42:10.822] ASCII >
+[STATUS] Mode:VEL | Pos:-69695(-69.69mm) | Spd:220 | Z:6455 | K1:0 K2:0 | LMT:0
+
+[11:42:11.830] ASCII >
+[STATUS] Mode:VEL | Pos:-68632(-68.63mm) | Spd:220 | Z:6471 | K1:0 K2:0 | LMT:0
+
+[11:42:12.836] ASCII >
+[STATUS] Mode:VEL | Pos:-67545(-67.54mm) | Spd:220 | Z:6486 | K1:0 K2:0 | LMT:0
+
+[11:42:13.844] ASCII >
+[STATUS] Mode:VEL | Pos:-66405(-66.40mm) | Spd:220 | Z:6501 | K1:0 K2:0 | LMT:0
+
+[11:42:14.852] ASCII >
+[STATUS] Mode:VEL | Pos:-65279(-65.28mm) | Spd:220 | Z:6516 | K1:0 K2:0 | LMT:0
+
+[11:42:15.857] ASCII >
+[STATUS] Mode:VEL | Pos:-64228(-64.23mm) | Spd:220 | Z:6535 | K1:0 K2:0 | LMT:0
+
+[11:42:16.864] ASCII >
+[STATUS] Mode:VEL | Pos:-63119(-63.12mm) | Spd:220 | Z:6553 | K1:0 K2:0 | LMT:0
+
+[11:42:17.872] ASCII >
+[STATUS] Mode:VEL | Pos:-61963(-61.96mm) | Spd:220 | Z:6572 | K1:0 K2:0 | LMT:0
+
+[11:42:18.878] ASCII >
+[STATUS] Mode:VEL | Pos:-60889(-60.89mm) | Spd:220 | Z:6592 | K1:0 K2:0 | LMT:0
+
+[11:42:19.886] ASCII >
+[STATUS] Mode:VEL | Pos:-59822(-59.82mm) | Spd:220 | Z:6610 | K1:0 K2:0 | LMT:0
+
+[11:42:20.883] ASCII >
+[SYS] Mode -Cmd=0
+ ON (位置模式)
+[POS] Target: -90000 pulse (-90.0mm)
+[TEST] VEL完成, 切回POS | 终点:-58.7mm | 位移:31.3mm
+
+[11:42:20.903] ASCII >
+[STATUS] Mode:POS | Pos:-58679(-58.68mm) | Spd:8 | Z:6629 | K1:0 K2:0 | LMT:0
+
+[11:42:20.972] ASCII >
+[RAMP] SpeedCmd=30
+
+[11:42:21.073] ASCII >
+[RAMP] SpeedCmd=60
+
+[11:42:21.174] ASCII >
+[RAMP] SpeedCmd=90
+
+[11:42:21.276] ASCII >
+[RAMP] SpeedCmd=114
+
+[11:42:21.376] ASCII >
+[RAMP] SpeedCmd=134
+
+[11:42:21.477] ASCII >
+[RAMP] SpeedCmd=154
+
+[11:42:21.577] ASCII >
+[RAMP] SpeedCmd=172
+
+[11:42:21.681] ASCII >
+[RAMP] SpeedCmd=182
+
+[11:42:21.779] ASCII >
+[RAMP] SpeedCmd=192
+
+[11:42:21.882] ASCII >
+[RAMP] SpeedCmd=200
+
+[11:42:21.921] ASCII >
+[STATUS] Mode:POS | Pos:-59362(-59.36mm) | Spd:200 | Z:6644 | K1:0 K2:0 | LMT:0
+
+[11:42:22.929] ASCII >
+[STATUS] Mode:POS | Pos:-60349(-60.35mm) | Spd:200 | Z:6668 | K1:0 K2:0 | LMT:0
+
+[11:42:23.936] ASCII >
+[STATUS] Mode:POS | Pos:-61309(-61.31mm) | Spd:200 | Z:6693 | K1:0 K2:0 | LMT:0
+
+[11:42:24.942] ASCII >
+[STATUS] Mode:POS | Pos:-62326(-62.33mm) | Spd:200 | Z:6710 | K1:0 K2:0 | LMT:0
+
+[11:42:25.952] ASCII >
+[STATUS] Mode:POS | Pos:-63379(-63.38mm) | Spd:200 | Z:6735 | K1:0 K2:0 | LMT:0
+
+[11:42:26.957] ASCII >
+[STATUS] Mode:POS | Pos:-64362(-64.36mm) | Spd:200 | Z:6759 | K1:0 K2:0 | LMT:0
+
+[11:42:27.963] ASCII >
+[STATUS] Mode:POS | Pos:-65311(-65.31mm) | Spd:200 | Z:6779 | K1:0 K2:0 | LMT:0
+
+[11:42:28.970] ASCII >
+[STATUS] Mode:POS | Pos:-66334(-66.33mm) | Spd:200 | Z:6802 | K1:0 K2:0 | LMT:0
+
+[11:42:29.977] ASCII >
+[STATUS] Mode:POS | Pos:-67394(-67.39mm) | Spd:200 | Z:6824 | K1:0 K2:0 | LMT:0
+
+[11:42:30.984] ASCII >
+[STATUS] Mode:POS | Pos:-68382(-68.38mm) | Spd:200 | Z:6851 | K1:0 K2:0 | LMT:0
+
+[11:42:31.992] ASCII >
+[STATUS] Mode:POS | Pos:-69337(-69.34mm) | Spd:200 | Z:6870 | K1:0 K2:0 | LMT:0
+
+[11:42:33.000] ASCII >
+[STATUS] Mode:POS | Pos:-70358(-70.36mm) | Spd:200 | Z:6892 | K1:0 K2:0 | LMT:0
+
+[11:42:34.006] ASCII >
+[STATUS] Mode:POS | Pos:-71417(-71.42mm) | Spd:200 | Z:6917 | K1:0 K2:0 | LMT:0
+
+[11:42:35.013] ASCII >
+[STATUS] Mode:POS | Pos:-72411(-72.41mm) | Spd:200 | Z:6940 | K1:0 K2:0 | LMT:0
+
+[11:42:36.020] ASCII >
+[STATUS] Mode:POS | Pos:-73366(-73.37mm) | Spd:200 | Z:6964 | K1:0 K2:0 | LMT:0
+
+[11:42:37.026] ASCII >
+[STATUS] Mode:POS | Pos:-74383(-74.38mm) | Spd:200 | Z:6989 | K1:0 K2:0 | LMT:0
+
+[11:42:38.033] ASCII >
+[STATUS] Mode:POS | Pos:-75442(-75.44mm) | Spd:200 | Z:7011 | K1:0 K2:0 | LMT:0
+
+[11:42:39.040] ASCII >
+[STATUS] Mode:POS | Pos:-76430(-76.43mm) | Spd:200 | Z:7035 | K1:0 K2:0 | LMT:0
+
+[11:42:40.047] ASCII >
+[STATUS] Mode:POS | Pos:-77391(-77.39mm) | Spd:200 | Z:7058 | K1:0 K2:0 | LMT:0
+
+[11:42:41.054] ASCII >
+[STATUS] Mode:POS | Pos:-78420(-78.42mm) | Spd:200 | Z:7083 | K1:0 K2:0 | LMT:0
+
+[11:42:42.061] ASCII >
+[STATUS] Mode:POS | Pos:-79483(-79.48mm) | Spd:200 | Z:7106 | K1:0 K2:0 | LMT:0
+
+[11:42:43.070] ASCII >
+[STATUS] Mode:POS | Pos:-80460(-80.46mm) | Spd:200 | Z:7130 | K1:0 K2:0 | LMT:0
+
+[11:42:44.075] ASCII >
+[STATUS] Mode:POS | Pos:-81424(-81.42mm) | Spd:200 | Z:7149 | K1:0 K2:0 | LMT:0
+
+[11:42:45.083] ASCII >
+[STATUS] Mode:POS | Pos:-82445(-82.44mm) | Spd:200 | Z:7173 | K1:0 K2:0 | LMT:0
+
+[11:42:46.090] ASCII >
+[STATUS] Mode:POS | Pos:-83488(-83.49mm) | Spd:200 | Z:7195 | K1:0 K2:0 | LMT:0
+
+[11:42:47.097] ASCII >
+[STATUS] Mode:POS | Pos:-84474(-84.47mm) | Spd:200 | Z:7219 | K1:0 K2:0 | LMT:0
+
+[11:42:48.104] ASCII >
+[STATUS] Mode:POS | Pos:-85429(-85.43mm) | Spd:200 | Z:7241 | K1:0 K2:0 | LMT:0
+
+[11:42:49.112] ASCII >
+[STATUS] Mode:POS | Pos:-86453(-86.45mm) | Spd:200 | Z:7264 | K1:0 K2:0 | LMT:0
+
+[11:42:50.116] ASCII >
+[STATUS] Mode:POS | Pos:-87513(-87.51mm) | Spd:200 | Z:7286 | K1:0 K2:0 | LMT:0
+
+[11:42:51.124] ASCII >
+[STATUS] Mode:POS | Pos:-88512(-88.51mm) | Spd:200 | Z:7311 | K1:0 K2:0 | LMT:0
+
+[11:42:52.132] ASCII >
+[STATUS] Mode:POS | Pos:-89456(-89.46mm) | Spd:200 | Z:7332 | K1:0 K2:0 | LMT:0
+
+[11:42:52.641] ASCII >
+[RAMP] SpeedCmd=199
+
+[11:42:52.727] ASCII >
+[POS] Arrived! Target=-90000, Actual=-89998, Error=-2, Ramp=18
+
+[11:42:53.145] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:7345 | K1:0 K2:0 | LMT:0
+
+[11:42:54.153] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:7345 | K1:0 K2:0 | LMT:0
+
+[11:42:55.161] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:7345 | K1:0 K2:0 | LMT:0
+
+[11:42:56.167] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:7345 | K1:0 K2:0 | LMT:0
+
+[11:42:57.173] ASCII >
+[STATUS] Mode:POS | Pos:-90000(-90.00mm) | Spd:18 | Z:7345 | K1:0 K2:0 | LMT:0
+
+[11:42:57.740] ASCII >
+[SYS] Mode -> VELOCITY (速度模式)
+[TEST] Cycle#7 | VEL FORWARD -> -95.7mm | 起点:-90.0mm
+
+[11:42:58.187] ASCII >
+[STATUS] Mode:VEL | Pos:-90503(-90.50mm) | Spd:220 | Z:7355 | K1:0 K2:0 | LMT:0
+
+[11:42:59.197] ASCII >
+[STATUS] Mode:VEL | Pos:-91684(-91.68mm) | Spd:220 | Z:7376 | K1:0 K2:0 | LMT:0
+
+[11:43:00.201] ASCII >
+[STATUS] Mode:VEL | Pos:-92737(-92.74mm) | Spd:220 | Z:7396 | K1:0 K2:0 | LMT:0
+
+[11:43:01.209] ASCII >
+[STATUS] Mode:VEL | Pos:-93806(-93.81mm) | Spd:220 | Z:7417 | K1:0 K2:0 | LMT:0
+
+[11:43:02.214] ASCII >
+[STATUS] Mode:VEL | Pos:-94954(-94.95mm) | Spd:220 | Z:7437 | K1:0 K2:0 | LMT:0
+
+[11:43:02.824] ASCII >
+[SYS] Mode -Cmd=0
+ ON (位置模式)
+[POS] Target: -90000 pulse (-90.0mm)
+[TEST] VEL完成, 切回POS | 终点:-95.7mm | 位移:5.7mm
+
+[11:43:02.916] ASCII >
+[RAMP] SpeedCmd=30
+
+[11:43:03.016] ASCII >
+[RAMP] SpeedCmd=60
+
+[11:43:03.117] ASCII >
+[RAMP] SpeedCmd=90
+
+[11:43:03.220] ASCII >
+[RAMP] SpeedCmd=114
+
+[11:43:03.239] ASCII >
+[STATUS] Mode:POS | Pos:-95537(-95.54mm) | Spd:117 | Z:7456 | K1:0 K2:0 | LMT:0
+
+[11:43:03.320] ASCII >
+[RAMP] SpeedCmd=134
+
+[11:43:03.420] ASCII >
+[RAMP] SpeedCmd=154
+
+[11:43:03.523] ASCII >
+[RAMP] SpeedCmd=172
+
+[11:43:03.623] ASCII >
+[RAMP] SpeedCmd=182
+
+[11:43:03.725] ASCII >
+[RAMP] SpeedCmd=192
+
+[11:43:03.825] ASCII >
+[RAMP] SpeedCmd=200
+
+[11:43:04.252] ASCII >
+[STATUS] Mode:POS | Pos:-94570(-94.57mm) | Spd:200 | Z:7468 | K1:0 K2:0 | LMT:0
+
+[11:43:05.258] ASCII >
+[STATUS] Mode:POS | Pos:-93555(-93.56mm) | Spd:200 | Z:7480 | K1:0 K2:0 | LMT:0
+
+[11:43:06.264] ASCII >
+[STATUS] Mode:POS | Pos:-92608(-92.61mm) | Spd:200 | Z:7497 | K1:0 K2:0 | LMT:0
+
+[11:43:07.273] ASCII >
+[STATUS] Mode:POS | Pos:-91615(-91.61mm) | Spd:200 | Z:7518 | K1:0 K2:0 | LMT:0
+
+[11:43:08.279] ASCII >
+[STATUS] Mode:POS | Pos:-90552(-90.55mm) | Spd:200 | Z:7533 | K1:0 K2:0 | LMT:0
+
+[11:43:08.772] ASCII >
+[RAMP] SpeedCmd=199
+
+[11:43:08.862] ASCII >
+[POS] Arrived! Target=-90000, Actual=-90002, Error=2, Ramp=18
+
+[11:43:09.293] ASCII >
+[STATUS] Mode:POS | Pos:-90001(-90.00mm) | Spd:18 | Z:7541 | K1:0 K2:0 | LMT:0
+
+[11:43:10.299] ASCII >
+[STATUS] Mode:POS | Pos:-90001(-90.00mm) | Spd:18 | Z:7541 | K1:0 K2:0 | LMT:0
+
+[11:43:11.306] ASCII >
+[STATUS] Mode:POS | Pos:-90001(-90.00mm) | Spd:18 | Z:7541 | K1:0 K2:0 | LMT:0
+
+[11:43:12.313] ASCII >
+[STATUS] Mode:POS | Pos:-90001(-90.00mm) | Spd:18 | Z:7541 | K1:0 K2:0 | LMT:0
+
+[11:43:13.321] ASCII >
+[STATUS] Mode:POS | Pos:-90001(-90.00mm) | Spd:18 | Z:7541 | K1:0 K2:0 | LMT:0
+
+[11:43:13.872] ASCII >
+[SYS] Mode -> VELOCITY (速度模式)
+[TEST] Cycle#8 | VEL BACKWARD -> -68.1mm | 起点:-90.0mm
+
+[11:43:14.339] ASCII >
+[STATUS] Mode:VEL | Pos:-89509(-89.51mm) | Spd:220 | Z:7549 | K1:0 K2:0 | LMT:0
+
+[11:43:15.343] ASCII >
+[STATUS] Mode:VEL | Pos:-88464(-88.46mm) | Spd:220 | Z:7564 | K1:0 K2:0 | LMT:0
+
+[11:43:16.351] ASCII >
+[STATUS] Mode:VEL | Pos:-87342(-87.34mm) | Spd:220 | Z:7583 | K1:0 K2:0 | LMT:0
+
+[11:43:17.356] ASCII >
+[STATUS] Mode:VEL | Pos:-86194(-86.19mm) | Spd:220 | Z:7598 | K1:0 K2:0 | LMT:0
+
+[11:43:18.363] ASCII >
+[STATUS] Mode:VEL | Pos:-85088(-85.09mm) | Spd:220 | Z:7616 | K1:0 K2:0 | LMT:0
+
+[11:43:19.370] ASCII >
+[STATUS] Mode:VEL | Pos:-84030(-84.03mm) | Spd:220 | Z:7634 | K1:0 K2:0 | LMT:0
+
+[11:43:20.377] ASCII >
+[STATUS] Mode:VEL | Pos:-82913(-82.91mm) | Spd:220 | Z:7651 | K1:0 K2:0 | LMT:0
+
+[11:43:21.384] ASCII >
+[STATUS] Mode:VEL | Pos:-81783(-81.78mm) | Spd:220 | Z:7667 | K1:0 K2:0 | LMT:0
+
+[11:43:22.392] ASCII >
+[STATUS] Mode:VEL | Pos:-80699(-80.70mm) | Spd:220 | Z:7686 | K1:0 K2:0 | LMT:0
+
+[11:43:23.399] ASCII >
+[STATUS] Mode:VEL | Pos:-79627(-79.63mm) | Spd:220 | Z:7704 | K1:0 K2:0 | LMT:0
+
+[11:43:24.406] ASCII >
+[STATUS] Mode:VEL | Pos:-78468(-78.47mm) | Spd:220 | Z:7722 | K1:0 K2:0 | LMT:0
+
+[11:43:25.411] ASCII >
+[STATUS] Mode:VEL | Pos:-77357(-77.36mm) | Spd:220 | Z:7738 | K1:0 K2:0 | LMT:0
+
+[11:43:26.419] ASCII >
+[STATUS] Mode:VEL | Pos:-76285(-76.29mm) | Spd:220 | Z:7753 | K1:0 K2:0 | LMT:0
+
+[11:43:27.426] ASCII >
+[STATUS] Mode:VEL | Pos:-75169(-75.17mm) | Spd:220 | Z:7772 | K1:0 K2:0 | LMT:0
+
+[11:43:28.437] ASCII >
+[STATUS] Mode:VEL | Pos:-74016(-74.02mm) | Spd:220 | Z:7789 | K1:0 K2:0 | LMT:0
+
+[11:43:29.441] ASCII >
+[STATUS] Mode:VEL | Pos:-72927(-72.93mm) | Spd:220 | Z:7807 | K1:0 K2:0 | LMT:0
+
+[11:43:30.447] ASCII >
+[STATUS] Mode:VEL | Pos:-71862(-71.86mm) | Spd:220 | Z:7824 | K1:0 K2:0 | LMT:0
+
+[11:43:31.454] ASCII >
+[STATUS] Mode:VEL | Pos:-70726(-70.73mm) | Spd:220 | Z:7843 | K1:0 K2:0 | LMT:0
+
+[11:43:32.463] ASCII >
+[STATUS] Mode:VEL | Pos:-69581(-69.58mm) | Spd:220 | Z:7859 | K1:0 K2:0 | LMT:0
+
+[11:43:33.467] ASCII >
+[STATUS] Mode:VEL | Pos:-68531(-68.53mm) | Spd:220 | Z:7877 | K1:0 K2:0 | LMT:0
+
+[11:43:33.883] ASCII >
+[SYS] Mode -Cmd=0
+ ON (位置模式)
+[POS] Target: -90000 pulse (-90.0mm)
+[TEST] VEL完成, 切回POS | 终点:-68.1mm | 位移:21.9mm
+
+[11:43:33.972] ASCII >
+[RAMP] SpeedCmd=30
+
+[11:43:34.074] ASCII >
+[RAMP] SpeedCmd=60
+
+[11:43:34.175] ASCII >
+[RAMP] SpeedCmd=90
+
+[11:43:34.275] ASCII >
+[RAMP] SpeedCmd=114
+
+[11:43:34.376] ASCII >
+[RAMP] SpeedCmd=134
+
+[11:43:34.476] ASCII >
+[RAMP] SpeedCmd=154
+
+[11:43:34.494] ASCII >
+[STATUS] Mode:POS | Pos:-68325(-68.32mm) | Spd:156 | Z:7890 | K1:0 K2:0 | LMT:0
+
+[11:43:34.578] ASCII >
+[RAMP] SpeedCmd=172
+
+[11:43:34.679] ASCII >
+[RAMP] SpeedCmd=182
+
+[11:43:34.781] ASCII >
+[RAMP] SpeedCmd=192
+
+[11:43:34.881] ASCII >
+[RAMP] SpeedCmd=200
+
+[11:43:35.504] ASCII >
+[STATUS] Mode:POS | Pos:-69242(-69.24mm) | Spd:200 | Z:7908 | K1:0 K2:0 | LMT:0
+
+[11:43:36.511] ASCII >
+[STATUS] Mode:POS | Pos:-70259(-70.26mm) | Spd:200 | Z:7934 | K1:0 K2:0 | LMT:0
+
+[11:43:37.517] ASCII >
+[STATUS] Mode:POS | Pos:-71317(-71.32mm) | Spd:200 | Z:7956 | K1:0 K2:0 | LMT:0
+
+[11:43:38.525] ASCII >
+[STATUS] Mode:POS | Pos:-72311(-72.31mm) | Spd:200 | Z:7981 | K1:0 K2:0 | LMT:0
+
+[11:43:39.532] ASCII >
+[STATUS] Mode:POS | Pos:-73270(-73.27mm) | Spd:200 | Z:8001 | K1:0 K2:0 | LMT:0
+
+[11:43:40.541] ASCII >
+[STATUS] Mode:POS | Pos:-74282(-74.28mm) | Spd:200 | Z:8025 | K1:0 K2:0 | LMT:0
+
+[11:43:41.548] ASCII >
+[STATUS] Mode:POS | Pos:-75337(-75.34mm) | Spd:200 | Z:8049 | K1:0 K2:0 | LMT:0
+
+[11:43:42.555] ASCII >
+[STATUS] Mode:POS | Pos:-76335(-76.33mm) | Spd:200 | Z:8071 | K1:0 K2:0 | LMT:0
+
+[11:43:43.560] ASCII >
+[STATUS] Mode:POS | Pos:-77296(-77.30mm) | Spd:200 | Z:8095 | K1:0 K2:0 | LMT:0
+
+[11:43:44.568] ASCII >
+[STATUS] Mode:POS | Pos:-78314(-78.31mm) | Spd:200 | Z:8117 | K1:0 K2:0 | LMT:0
+
+[11:43:45.575] ASCII >
+[STATUS] Mode:POS | Pos:-79377(-79.38mm) | Spd:200 | Z:8141 | K1:0 K2:0 | LMT:0
+
+[11:43:46.581] ASCII >
+[STATUS] Mode:POS | Pos:-80365(-80.36mm) | Spd:200 | Z:8163 | K1:0 K2:0 | LMT:0
+
+[11:43:47.588] ASCII >
+[STATUS] Mode:POS | Pos:-81331(-81.33mm) | Spd:200 | Z:8183 | K1:0 K2:0 | LMT:0
+
+[11:43:48.596] ASCII >
+[STATUS] Mode:POS | Pos:-82345(-82.35mm) | Spd:200 | Z:8207 | K1:0 K2:0 | LMT:0
+
+[11:43:49.602] ASCII >
+[STATUS] Mode:POS | Pos:-83389(-83.39mm) | Spd:200 | Z:8228 | K1:0 K2:0 | LMT:0
+
+[11:43:50.609] ASCII >
+[STATUS] Mode:POS | Pos:-84379(-84.38mm) | Spd:200 | Z:8254 | K1:0 K2:0 | LMT:0
+
+[11:43:51.616] ASCII >
+[STATUS] Mode:POS | Pos:-85333(-85.33mm) | Spd:200 | Z:8277 | K1:0 K2:0 | LMT:0
+
+[11:43:52.622] ASCII >
+[STATUS] Mode:POS | Pos:-86350(-86.35mm) | Spd:200 | Z:8298 | K1:0 K2:0 | LMT:0
+
+[11:43:53.631] ASCII >
+[STATUS] Mode:POS | Pos:-87409(-87.41mm) | Spd:200 | Z:8320 | K1:0 K2:0 | LMT:0
+
+[11:43:54.636] ASCII >
+[STATUS] Mode:POS | Pos:-88414(-88.41mm) | Spd:200 | Z:8344 | K1:0 K2:0 | LMT:0
+
+[11:43:55.646] ASCII >
+[STATUS] Mode:POS | Pos:-89359(-89.36mm) | Spd:200 | Z:8370 | K1:0 K2:0 | LMT:0
+
+[11:43:56.247] ASCII >
+[RAMP] SpeedCmd=199
+
+[11:43:56.333] ASCII >
+[POS] Arrived! Target=-90000, Actual=-89998, Error=-2, Ramp=18
+
+[11:43:56.657] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:8387 | K1:0 K2:0 | LMT:0
+
+[11:43:57.663] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:8387 | K1:0 K2:0 | LMT:0
+
+[11:43:58.672] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:8387 | K1:0 K2:0 | LMT:0
+
+[11:43:59.679] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:8387 | K1:0 K2:0 | LMT:0
+
+[11:44:00.685] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:8387 | K1:0 K2:0 | LMT:0
+
+[11:44:01.344] ASCII >
+[SYS] Mode -> VELOCITY (速度模式)
+[TEST] Cycle#9 | VEL BACKWARD -> -71.3mm | 起点:-90.0mm
+
+[11:44:01.699] ASCII >
+[STATUS] Mode:VEL | Pos:-89627(-89.63mm) | Spd:220 | Z:8393 | K1:0 K2:0 | LMT:0
+
+[11:44:02.707] ASCII >
+[STATUS] Mode:VEL | Pos:-88570(-88.57mm) | Spd:220 | Z:8408 | K1:0 K2:0 | LMT:0
+
+[11:44:03.714] ASCII >
+[STATUS] Mode:VEL | Pos:-87468(-87.47mm) | Spd:220 | Z:8426 | K1:0 K2:0 | LMT:0
+
+[11:44:04.723] ASCII >
+[STATUS] Mode:VEL | Pos:-86317(-86.32mm) | Spd:220 | Z:8444 | K1:0 K2:0 | LMT:0
+
+[11:44:05.728] ASCII >
+[STATUS] Mode:VEL | Pos:-85209(-85.21mm) | Spd:220 | Z:8465 | K1:0 K2:0 | LMT:0
+
+[11:44:06.735] ASCII >
+[STATUS] Mode:VEL | Pos:-84149(-84.15mm) | Spd:220 | Z:8481 | K1:0 K2:0 | LMT:0
+
+[11:44:07.742] ASCII >
+[STATUS] Mode:VEL | Pos:-83035(-83.04mm) | Spd:220 | Z:8499 | K1:0 K2:0 | LMT:0
+
+[11:44:08.749] ASCII >
+[STATUS] Mode:VEL | Pos:-81899(-81.90mm) | Spd:220 | Z:8520 | K1:0 K2:0 | LMT:0
+
+[11:44:09.756] ASCII >
+[STATUS] Mode:VEL | Pos:-80812(-80.81mm) | Spd:220 | Z:8537 | K1:0 K2:0 | LMT:0
+
+[11:44:10.763] ASCII >
+[STATUS] Mode:VEL | Pos:-79746(-79.75mm) | Spd:220 | Z:8552 | K1:0 K2:0 | LMT:0
+
+[11:44:11.770] ASCII >
+[STATUS] Mode:VEL | Pos:-78587(-78.59mm) | Spd:220 | Z:8570 | K1:0 K2:0 | LMT:0
+
+[11:44:12.777] ASCII >
+[STATUS] Mode:VEL | Pos:-77474(-77.47mm) | Spd:220 | Z:8586 | K1:0 K2:0 | LMT:0
+
+[11:44:13.786] ASCII >
+[STATUS] Mode:VEL | Pos:-76398(-76.40mm) | Spd:220 | Z:8603 | K1:0 K2:0 | LMT:0
+
+[11:44:14.792] ASCII >
+[STATUS] Mode:VEL | Pos:-75289(-75.29mm) | Spd:220 | Z:8622 | K1:0 K2:0 | LMT:0
+
+[11:44:15.800] ASCII >
+[STATUS] Mode:VEL | Pos:-74139(-74.14mm) | Spd:220 | Z:8640 | K1:0 K2:0 | LMT:0
+
+[11:44:16.810] ASCII >
+[STATUS] Mode:VEL | Pos:-73048(-73.05mm) | Spd:220 | Z:8657 | K1:0 K2:0 | LMT:0
+
+[11:44:17.831] ASCII >
+[STATUS] Mode:VEL | Pos:-71980(-71.98mm) | Spd:220 | Z:8674 | K1:0 K2:0 | LMT:0
+
+[11:44:18.440] ASCII >
+[SYS] Mode -Cmd=0
+ ON (位置模式)
+[POS] Target: -90000 pulse (-90.0mm)
+[TEST] VEL完成, 切回POS | 终点:-71.3mm | 位移:18.7mm
+
+[11:44:18.530] ASCII >
+[RAMP] SpeedCmd=30
+
+[11:44:18.630] ASCII >
+[RAMP] SpeedCmd=60
+
+[11:44:18.730] ASCII >
+[RAMP] SpeedCmd=90
+
+[11:44:18.834] ASCII >
+[STATUS] ModCmd=114
+ s:-71406(-71.41mm) | Spd:114 | Z:8688 | K1:0 K2:0 | LMT:0
+
+[11:44:18.930] ASCII >
+[RAMP] SpeedCmd=134
+
+[11:44:19.031] ASCII >
+[RAMP] SpeedCmd=154
+
+[11:44:19.131] ASCII >
+[RAMP] SpeedCmd=172
+
+[11:44:19.233] ASCII >
+[RAMP] SpeedCmd=182
+
+[11:44:19.334] ASCII >
+[RAMP] SpeedCmd=192
+
+[11:44:19.434] ASCII >
+[RAMP] SpeedCmd=200
+
+[11:44:19.847] ASCII >
+[STATUS] Mode:POS | Pos:-72301(-72.30mm) | Spd:200 | Z:8710 | K1:0 K2:0 | LMT:0
+
+[11:44:20.854] ASCII >
+[STATUS] Mode:POS | Pos:-73249(-73.25mm) | Spd:200 | Z:8733 | K1:0 K2:0 | LMT:0
+
+[11:44:21.861] ASCII >
+[STATUS] Mode:POS | Pos:-74268(-74.27mm) | Spd:200 | Z:8758 | K1:0 K2:0 | LMT:0
+
+[11:44:22.869] ASCII >
+[STATUS] Mode:POS | Pos:-75320(-75.32mm) | Spd:200 | Z:8783 | K1:0 K2:0 | LMT:0
+
+[11:44:23.875] ASCII >
+[STATUS] Mode:POS | Pos:-76319(-76.32mm) | Spd:200 | Z:8803 | K1:0 K2:0 | LMT:0
+
+[11:44:24.882] ASCII >
+[STATUS] Mode:POS | Pos:-77282(-77.28mm) | Spd:200 | Z:8824 | K1:0 K2:0 | LMT:0
+
+[11:44:25.890] ASCII >
+[STATUS] Mode:POS | Pos:-78300(-78.30mm) | Spd:200 | Z:8848 | K1:0 K2:0 | LMT:0
+
+[11:44:26.895] ASCII >
+[STATUS] Mode:POS | Pos:-79363(-79.36mm) | Spd:200 | Z:8869 | K1:0 K2:0 | LMT:0
+
+[11:44:27.903] ASCII >
+[STATUS] Mode:POS | Pos:-80347(-80.35mm) | Spd:200 | Z:8893 | K1:0 K2:0 | LMT:0
+
+[11:44:28.910] ASCII >
+[STATUS] Mode:POS | Pos:-81317(-81.32mm) | Spd:200 | Z:8915 | K1:0 K2:0 | LMT:0
+
+[11:44:29.917] ASCII >
+[STATUS] Mode:POS | Pos:-82331(-82.33mm) | Spd:200 | Z:8938 | K1:0 K2:0 | LMT:0
+
+[11:44:30.926] ASCII >
+[STATUS] Mode:POS | Pos:-83368(-83.37mm) | Spd:200 | Z:8959 | K1:0 K2:0 | LMT:0
+
+[11:44:31.930] ASCII >
+[STATUS] Mode:POS | Pos:-84364(-84.36mm) | Spd:200 | Z:8984 | K1:0 K2:0 | LMT:0
+
+[11:44:32.938] ASCII >
+[STATUS] Mode:POS | Pos:-85315(-85.32mm) | Spd:200 | Z:9006 | K1:0 K2:0 | LMT:0
+
+[11:44:33.947] ASCII >
+[STATUS] Mode:POS | Pos:-86333(-86.33mm) | Spd:200 | Z:9030 | K1:0 K2:0 | LMT:0
+
+[11:44:34.952] ASCII >
+[STATUS] Mode:POS | Pos:-87395(-87.39mm) | Spd:200 | Z:9053 | K1:0 K2:0 | LMT:0
+
+[11:44:35.959] ASCII >
+[STATUS] Mode:POS | Pos:-88400(-88.40mm) | Spd:200 | Z:9077 | K1:0 K2:0 | LMT:0
+
+[11:44:36.966] ASCII >
+[STATUS] Mode:POS | Pos:-89344(-89.34mm) | Spd:200 | Z:9102 | K1:0 K2:0 | LMT:0
+
+[11:44:37.590] ASCII >
+[RAMP] SpeedCmd=198
+
+[11:44:37.676] ASCII >
+[POS] Arrived! Target=-90000, Actual=-89998, Error=-2, Ramp=18
+
+[11:44:37.979] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:9115 | K1:0 K2:0 | LMT:0
+
+[11:44:38.985] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:9115 | K1:0 K2:0 | LMT:0
+
+[11:44:39.994] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:9115 | K1:0 K2:0 | LMT:0
+
+[11:44:41.000] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:9115 | K1:0 K2:0 | LMT:0
+
+[11:44:42.007] ASCII >
+[STATUS] Mode:POS | Pos:-89999(-90.00mm) | Spd:18 | Z:9115 | K1:0 K2:0 | LMT:0
+
+[11:44:42.687] ASCII >
+[SYS] Mode -> VELOCITY (速度模式)
+[TEST] Cycle#10 | VEL FORWARD -> -98.7mm | 起点:-90.0mm
+
+[11:44:43.023] ASCII >
+[STATUS] Mode:VEL | Pos:-90369(-90.37mm) | Spd:220 | Z:9121 | K1:0 K2:0 | LMT:0
+
+[11:44:44.028] ASCII >
+[STATUS] Mode:VEL | Pos:-91545(-91.54mm) | Spd:220 | Z:9143 | K1:0 K2:0 | LMT:0
+
+[11:44:45.035] ASCII >
+[STATUS] Mode:VEL | Pos:-92623(-92.62mm) | Spd:220 | Z:9165 | K1:0 K2:0 | LMT:0
+
+[11:44:46.043] ASCII >
+[STATUS] Mode:VEL | Pos:-93674(-93.67mm) | Spd:220 | Z:9188 | K1:0 K2:0 | LMT:0
+
+[11:44:47.051] ASCII >
+[STATUS] Mode:VEL | Pos:-94816(-94.82mm) | Spd:220 | Z:9209 | K1:0 K2:0 | LMT:0
+
+[11:44:48.057] ASCII >
+[STATUS] Mode:VEL | Pos:-95981(-95.98mm) | Spd:220 | Z:9232 | K1:0 K2:0 | LMT:0
+
+[11:44:49.064] ASCII >
+[STATUS] Mode:VEL | Pos:-97015(-97.01mm) | Spd:220 | Z:9249 | K1:0 K2:0 | LMT:0
+
+[11:44:50.070] ASCII >
+[STATUS] Mode:VEL | Pos:-98105(-98.11mm) | Spd:220 | Z:9270 | K1:0 K2:0 | LMT:0
+
+[11:44:50.574] ASCII >
+[SYS] Mode -Cmd=0
+ ON (位置模式)
+[POS] Target: -90000 pulse (-90.0mm)
+[TEST] VEL完成, 切回POS | 终点:-98.7mm | 位移:8.7mm
+
+[11:44:50.665] ASCII >
+[RAMP] SpeedCmd=30
+
+[11:44:50.767] ASCII >
+[RAMP] SpeedCmd=60
+
+[11:44:50.868] ASCII >
+[RAMP] SpeedCmd=90
+
+[11:44:50.969] ASCII >
+[RAMP] SpeedCmd=114
+
+[11:44:51.070] ASCII >
+[RAMP] SpeedCmd=134
+
+[11:44:51.094] ASCII >
+[STATUS] Mode:POS | Pos:-98496(-98.50mm) | Spd:138 | Z:9288 | K1:0 K2:0 | LMT:0
+
+[11:44:51.170] ASCII >
+[RAMP] SpeedCmd=154
+
+[11:44:51.271] ASCII >
+[RAMP] SpeedCmd=172
+
+[11:44:51.374] ASCII >
+[RAMP] SpeedCmd=182
+
+[11:44:51.475] ASCII >
+[RAMP] SpeedCmd=192
+
+[11:44:51.577] ASCII >
+[RAMP] SpeedCmd=200
+
+[11:44:52.108] ASCII >
+[STATUS] Mode:POS | Pos:-97535(-97.54mm) | Spd:200 | Z:9302 | K1:0 K2:0 | LMT:0
+
+[11:44:53.114] ASCII >
+[STATUS] Mode:POS | Pos:-96578(-96.58mm) | Spd:200 | Z:9316 | K1:0 K2:0 | LMT:0
+
+[11:44:54.121] ASCII >
+[STATUS] Mode:POS | Pos:-95590(-95.59mm) | Spd:200 | Z:9333 | K1:0 K2:0 | LMT:0
+
+[11:44:55.129] ASCII >
+[STATUS] Mode:POS | Pos:-94518(-94.52mm) | Spd:200 | Z:9349 | K1:0 K2:0 | LMT:0
+
+[11:44:56.138] ASCII >
+[STATUS] Mode:POS | Pos:-93506(-93.51mm) | Spd:200 | Z:9363 | K1:0 K2:0 | LMT:0
+
+[11:44:57.142] ASCII >
+[STATUS] Mode:POS | Pos:-92569(-92.57mm) | Spd:200 | Z:9379 | K1:0 K2:0 | LMT:0
+
+[11:44:58.148] ASCII >
+[STATUS] Mode:POS | Pos:-91572(-91.57mm) | Spd:200 | Z:9395 | K1:0 K2:0 | LMT:0
+
+[11:44:59.156] ASCII >
+[STATUS] Mode:POS | Pos:-90505(-90.50mm) | Spd:200 | Z:9412 | K1:0 K2:0 | LMT:0
+
+[11:44:59.601] ASCII >
+[RAMP] SpeedCmd=199
+
+[11:44:59.686] ASCII >
+[POS] Arrived! Target=-90000, Actual=-90002, Error=2, Ramp=18
+
+[11:45:00.168] ASCII >
+[STATUS] Mode:POS | Pos:-90001(-90.00mm) | Spd:18 | Z:9417 | K1:0 K2:0 | LMT:0
+
+[11:45:01.176] ASCII >
+[STATUS] Mode:POS | Pos:-90001(-90.00mm) | Spd:18 | Z:9417 | K1:0 K2:0 | LMT:0
+
+[11:45:02.184] ASCII >
+[STATUS] Mode:POS | Pos:-90001(-90.00mm) | Spd:18 | Z:9417 | K1:0 K2:0 | LMT:0
+
+[11:45:03.190] ASCII >
+[STATUS] Mode:POS | Pos:-90001(-90.00mm) | Spd:18 | Z:9417 | K1:0 K2:0 | LMT:0
+
+[11:45:04.199] ASCII >
+[STATUS] Mode:POS | Pos:-90001(-90.00mm) | Spd:18 | Z:9417 | K1:0 K2:0 | LMT:0
+
+[11:45:04.696] ASCII >
+[SYS] Mode -> VELOCITY (速度模式)
+[TEST] Cycle#11 | VEL BACKWARD -> -78.7mm | 起点:-90.0mm
+
+[11:45:05.212] ASCII >
+[STATUS] Mode:VEL | Pos:-89453(-89.45mm) | Spd:220 | Z:9425 | K1:0 K2:0 | LMT:0
