@@ -1,0 +1,31 @@
+# Build outputs
+*.o
+*.d
+*.axf
+*.hex
+*.map
+*.lnp
+*.sct
+*.dep
+*.htm
+*.dbgconf
+
+# Keil user settings
+*.uvguix.*
+
+# Build logs
+build_log*.txt
+final_log.txt
+rebuild_log.txt
+
+# CubeMX temp
+.mxproject
+
+# Temporary files
+defense_presentation.md
+tools/
+
+# Keil generated
+MDK-ARM/RTE/
+MDK-ARM/DebugConfig/
+MDK-ARM/*.htm
